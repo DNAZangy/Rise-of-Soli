@@ -1,0 +1,4817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>ROS</name>
+      <longname></longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Burgeoning Satrapy</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Satrapy </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Sacrifice Burgeoning Satrapy: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+    </card>
+    <card>
+      <name>Soli Fortress</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Satrapy </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>As Soli Fortress enters, you may pay 1 life. If you don’t, Soli Fortress enters tapped.
+Satrapies you control have “{T}: Add {W}.”</text>
+    </card>
+    <card>
+      <name>Atieh, Seer of Distant Futures</name>
+      <set rarity="mythic">ROS</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1WU</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Merfolk Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(Transcend as a sorcery to gain that type and a +1/+1 counter.)
+Flash
+When Atieh, Seer of Distant Futures enters, return target spell to its owner’s hand.
+WU: Nephilim
+You gain 2 life and draw a card.
+2WU: Angel
+Exile up to one target nonland permanent until Atieh, Seer of Distant Futures leaves the battlefield.
+4WU: Elder
+Put a flying counter, an indestructible counter, and a lifelink counter on Atieh, Seer of Distant Futures.</text>
+    </card>
+    <card>
+      <name>Cyrukan of Heart and Iron</name>
+      <set rarity="mythic">ROS</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>3RW</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>6/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(Transcend as a sorcery to gain that type and a +1/+1 counter.)
+Whenever Cyrukan enters or transcends, create two 1/1 white Soldier creature tokens with haste.
+2RW: Nephilim
+Creatures you control get +1/+0 and gain first strike until end of turn.
+3RW: Angel
+Creatures you control gain lifelink and vigilance until end of turn.
+4RW: Elder
+Creatures you control gain flying and double strike until end of turn.</text>
+    </card>
+    <card>
+      <name>Rahstadhe, Brand of Truth</name>
+      <set rarity="mythic">ROS</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(Transcend as a sorcery to gain that type and a +1/+1 counter.)
+Instant and sorcery spells you cast cost {1} less to cast.
+1UR: Nephilim
+Put a flying counter and a prowess counter on Rahstadhe.
+2UR: Angel
+Mill three cards. You may return an instant or sorcery card from your graveyard to your hand.
+5UR: Elder
+Exile any number of instant and/or sorcery cards from your graveyard. For each card exiled this way, copy it, and you may cast the copy without paying its mana cost.</text>
+    </card>
+    <card>
+      <name>Fahrib, the Ever-Scheming </name>
+      <set rarity="mythic">ROS</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>UB</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(Transcend as a sorcery to gain that type and a +1/+1 counter.)
+Once each turn, whenever you cast a spell from anywhere other than your hand, you may activate one of Fahrib’s abilities without paying its costs.
+UB: Azra
+Draw a card. Each opponent mills a card.
+2UB: Demon
+Return up to one target nonland permanent to its owner’s hand. That permanent’s controller discards a card.
+4UB: Elder
+You may cast up to two cards from an opponent’s graveyard without paying their mana costs.</text>
+    </card>
+    <card>
+      <name>Mahara, General of All</name>
+      <set rarity="mythic">ROS</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>4WB</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(Transcend as a sorcery to gain that type and a +1/+1 counter.)
+When Mahara enters, if you cast them, destroy all other creatures.
+2WB: Nephilim
+You gain 4 life and amass Soldiers 4. (Put four +1/+1 counters on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)
+2WB: Angel
+Put an indestructible counter on Mahara.
+2WB: Elder
+Amass Soldiers 20.</text>
+    </card>
+    <card>
+      <name>Abwad Kahroba, Failed Son</name>
+      <set rarity="mythic">ROS</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1GW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Mutant Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(Transcend as a sorcery to gain that type and a +1/+1 counter.)
+Vigilance
+GW: Azra
+Abwad Kahroba gains “Noncreature spells cost {1} more to cast.”
+2GW: Demon
+Create two 2/2 green Azra creature tokens.
+7GW: Elder
+Return each creature card from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>Sahra, Hadak&apos;s Last Warrior</name>
+      <set rarity="mythic">ROS</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>3RG</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Ogre Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(Transcend as a sorcery to gain that type and a +1/+1 counter.)
+Haste
+At the beginning of combat on your turn, sacrifice Sahra unless he entered the battlefield or transcended this turn.
+RG: Azra
+Discard up to two cards. Draw that many cards plus one.
+2RG: Demon
+Destroy each artifact and enchantment you don’t control.
+4RG: Elder
+Sahra deals 8 damage to each creature and planeswalker your opponents control and to each battle they protect.</text>
+    </card>
+    <card>
+      <name>Tamaak the Arid Swarm</name>
+      <set rarity="mythic">ROS</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>2BG</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(Transcend as a sorcery to gain that type and a +1/+1 counter.)
+Flying
+Tamaak the Arid Swarm can only transcend if you’ve sacrificed a permanent this turn.
+BG: Azra
+Create two 1/1 black Insect creature tokens with flying.
+2BG: Demon
+Destroy target permanent.
+4BG: Elder
+Each opponent sacrifices five permanents.</text>
+    </card>
+    <card>
+      <name>Martoob of Flowing Life</name>
+      <set rarity="mythic">ROS</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>2GU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(Transcend as a sorcery to gain that type and a +1/+1 counter.)
+Activated abilities of Martoob costs {X} less to activate, where X is the number of +1/+1 counters on her.
+1GU: Nephilim
+Create a token that’s a copy of another target creature you control. Put a +1/+1 counter on that creature for each counter on Martoob.
+4GU: Angel
+Put a +1/+1 counter on each other creature you control.
+8GU: Elder
+Double the number of counters on permanents you control.</text>
+    </card>
+    <card>
+      <name>Avaz Bulwark</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Satrapy </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Avaz Bulwark enters tapped.
+As Avaz Bulwark enters, choose a color other than red.
+{T}: Add {R}.
+Satrapies you control have “{T}: Add one mana of the chosen color.”</text>
+    </card>
+    <card>
+      <name>Danaj Bulwark</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Satrapy </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Danaj Bulwark enters tapped.
+As Danaj Bulwark enters, choose a color other than green.
+{T}: Add {G}.
+Satrapies you control have “{T}: Add one mana of the chosen color.”</text>
+    </card>
+    <card>
+      <name>Kaneh Bulwark</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Satrapy </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Kaneh Bulwark enters tapped.
+As Kaneh Bulwark enters, choose a color other than black.
+{T}: Add {B}.
+Satrapies you control have “{T}: Add one mana of the chosen color.”</text>
+    </card>
+    <card>
+      <name>Nizev Bulwark</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Satrapy </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Nizev Bulwark enters tapped.
+As Nizev Bulwark enters, choose a color other than blue.
+{T}: Add {U}.
+Satrapies you control have “{T}: Add one mana of the chosen color.”</text>
+    </card>
+    <card>
+      <name>Soli Bulwark</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Satrapy </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Soli Bulwark enters tapped.
+As Soli Bulwark enters, choose a color other than white.
+{T}: Add {W}.
+Satrapies you control have “{T}: Add one mana of the chosen color.”</text>
+    </card>
+    <card>
+      <name>Nizev Fortress</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Satrapy </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>As Nizev Fortress enters, you may pay 1 life. If you don’t, Nizev Fortress enters tapped.
+Satrapies you control have “{T}: Add {U}.”</text>
+    </card>
+    <card>
+      <name>Kaneh Fortress</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Satrapy </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>As Kaneh Fortress enters, you may pay 1 life. If you don’t, Kaneh Fortress enters tapped.
+Satrapies you control have “{T}: Add {B}.”</text>
+    </card>
+    <card>
+      <name>Avaz Fortress</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Satrapy </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>As Avaz Fortress enters, you may pay 1 life. If you don’t, Avaz Fortress enters tapped.
+Satrapies you control have “{T}: Add {R}.”</text>
+    </card>
+    <card>
+      <name>Danaj Fortress</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Satrapy </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>As Danaj Fortress enters, you may pay 1 life. If you don’t, Danaj Fortress enters tapped.
+Satrapies you control have “{T}: Add {G}.”</text>
+    </card>
+    <card>
+      <name>Atieh&apos;s Command</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>WURG</colors>
+        <manacost>RGWU</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose two — 
+• Target player searches their library for a land card, puts it onto the battlefield tapped, then shuffles.
+• Atieh’s Command deals damage to target creature or planeswalker equal to the number of lands you control.
+• Target player gains life equal to the number of lands you control.
+• Target player mills five cards, then you may return a nonland card milled this way to your hand.</text>
+    </card>
+    <card>
+      <name>Fahribs Command</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>WUBG</colors>
+        <manacost>GWUB</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose two — 
+• The next time a triggered ability of a permanent you control would trigger this turn, that ability triggers an additional time.
+• Search your library for a creature card with mana value 3 or less, put it onto the battlefield, then shuffle.
+• Create a token that’s a copy of a creature you control.
+• Sacrifice a creature. If you do, draw two cards.</text>
+    </card>
+    <card>
+      <name>Tamaks Command</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>WBRG</colors>
+        <manacost>BRGW</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose two — 
+• Destroy all nonland permanents with mana value 3 or less.
+• Return a creature or planeswalker card with mana value 3 or less from a graveyard to the battlefield.
+• Return an artifact or enchantment card with mana value 3 or less from a graveyard to the battlefield.
+• Return a land card from a graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>Andazir&apos;s Command</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>UBRG</colors>
+        <manacost>UBRG</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose two —
+• Exile target creature with the greatest power among creatures on the battlefield.
+• Target player looks at the top four cards of their library. They put one into their hand, then exile the rest.
+• Exile up to four target cards from opponents graveyards.
+• Until the end of your next turn, target player may play cards exiled by Andazir’s Command.</text>
+    </card>
+    <card>
+      <name>Cyrukans Command</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>WUBR</colors>
+        <manacost>WUBR</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose two —
+• After the first postcombat main phase this turn, there’s an additional combat phase followed by an additional main phase. Creatures you control gain vigilance until end of turn.
+• Creatures you control gain indestructible until end of turn.
+• Creatures you control gain lifelink until end of turn.
+• Creatures you control get +2/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Accession of Soli</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Battle - Encounter </type>
+        <maintype>Battle</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As an Encounter enters, choose an opponent to protect it. You and others can attack it. When defense counters are removed, create a 0/0 Army token if you don’t control one, then put that many +1/+1 counters on a Army you control.)
+When Accession of Soli enters or is defeated, look at the top five cards of your library. Put up to one creature card with mana value 2 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>Scornful Arcanist</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+If a player would create one or more non-Army tokens, instead they amass Soldiers 1 that many times. (They put that many +1/+1 counters on an Army they control. It’s also a Soldier. If they don’t control an Army, they create a 0/0 black Soldier Army creature first.)</text>
+    </card>
+    <card>
+      <name>Reckoner of Kaneh</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Angel Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lionize {B} ({B}, Exile this card from your hand:
+Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)
+Flying, lifelink
+Whenever this creature deals combat damage
+to a player, that player sacrifices a planeswalker. Remove all defense counters from a battle they protect.</text>
+    </card>
+    <card>
+      <name>Archfiend of Rage</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Manticore Demon </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you cast your first noncreature spell each turn, you may sacrifice a creature. If you do, copy that spell. You may choose new targets for the copy.</text>
+    </card>
+    <card>
+      <name>Erzdew Signaller</name>
+      <set rarity="rare" splitterPath="/Erzdew Signaller.png" >ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Azra Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you put a counter on another permanent you control, put a +1/+1 counter on Erzdew Signaller. This abilities triggers only once each turn.
+Surpass 5G (5G: Transform this creature. This costs {1} less to activate for each counter on it. Activate only as a sorcery.)
+---
+(Back): Dew Harbinger</text>
+      <related attach="transform">Dew Harbinger</related>
+    </card>
+    <card>
+      <name>Dew Harbinger</name>
+      <set rarity="rare" splitterPath="/Dew Harbinger.png" >ROS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Creature - Demon Soldier </type>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of combat on your turn, Dew Harbinger gains flying until end of turn if you control a creature with flying or a creature card in your graveyard has flying. The same is true for first strike, double strike, deathtouch, hexproof, haste, indestructible, lifelink, menace, reach, trample, and vigilance.
+---
+(Front): Erzdew Signaller</text>
+    </card>
+    <card>
+      <name>Listless Maneli</name>
+      <set rarity="rare" splitterPath="/Listless Maneli.png" >ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Nephilim Merfolk Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you gain life, put a +1/+1 counter on Listless Maneli.
+Surpass 5W (5W: Transform this creature. This costs {1} less to activate for each counter on it. Activate only as a sorcery.)
+---
+(Back): Focused Savior</text>
+      <related attach="transform">Focused Savior</related>
+    </card>
+    <card>
+      <name>Focused Savior</name>
+      <set rarity="rare" splitterPath="/Focused Savior.png" >ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Creature - Angel Merfolk Cleric </type>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, ward {2}
+Whenever a creature you control attacks, you gain 1 life.
+---
+(Front): Listless Maneli</text>
+    </card>
+    <card>
+      <name>Accession of Nizev</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Battle - Encounter </type>
+        <maintype>Battle</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As an Encounter enters, choose an opponent to protect it. You and others can attack it. When defense counters are removed, create a 0/0 Army token if you don’t control one, then put that many +1/+1 counters on a Army you control.)
+When Accession of Nizev enters or is defeated, up to one creature you control becomes a copy of another target creature. (This effect lasts indefinitely.)</text>
+    </card>
+    <card>
+      <name>Jahi of Endless Hunger</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Demon Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lionize 2B (2B, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)
+Flying
+Sacrifice a creature: Put a +1/+1 counter on this creature and tap it. Any player may activate this ability.</text>
+    </card>
+    <card>
+      <name>Huma of Glory</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Phoenix </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lionize 1R (1R, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)
+Flying, haste
+When this creature dies, if it was attacking, return
+it to the battlefield tapped at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>Accession of Danaj</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Battle - Encounter </type>
+        <maintype>Battle</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As an Encounter enters, choose an opponent to protect it. You and others can attack it. When defense counters are removed, create a 0/0 Army token if you don’t control one, then put that many +1/+1 counters on a Army you control.)
+When Accession of Danaj enters or is defeated, draw cards equal to the greatest power among creatures you control.</text>
+    </card>
+    <card>
+      <name>Solis Crossbowmaster</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Nephilim Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Soli’s Crossbowmaster, an Angel or another Nephilim enters under your control, amass Soldiers 1. (Put a +1/+1 counter on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)
+Whenever an Army you control attacks, if its power is 4 or greater, it gains lifelink until end
+of turn.</text>
+    </card>
+    <card>
+      <name>Acolyte of Water</name>
+      <set rarity="rare" splitterPath="/Acolyte of Water.png" >ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Nephilim Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you draw a card, put a +1/+1 counter on Acolyte of Water.
+Surpass 5U (5U: Transform this creature. This costs {1} less to activate for each counter on it. Activate only as a sorcery.)
+---
+(Back): Acolyte of Life</text>
+      <related attach="transform">Acolyte of Life</related>
+    </card>
+    <card>
+      <name>Acolyte of Life</name>
+      <set rarity="rare" splitterPath="/Acolyte of Life.png" >ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creature - Angel Cleric </type>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you draw a card, put a +1/+1 counter on Acolyte of Life.
+Remove two counters from Acolyte of Life: It phases out. (Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)
+---
+(Front): Acolyte of Water</text>
+    </card>
+    <card>
+      <name>Listless Vagabond</name>
+      <set rarity="rare" splitterPath="/Listless Vagabond.png" >ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Listless Vagabond enters, each opponent discards a card.
+Whenever an opponent discards a card, put a +1/+1 counter on Listless Vagabond.
+Surpass 4B (4B: Transform this creature. This costs {1} less to activate for each counter
+on it. Activate only as a sorcery.)
+---
+(Back): Fahrib&apos;s Lieutenant</text>
+      <related attach="transform">Fahrib&apos;s Lieutenant</related>
+    </card>
+    <card>
+      <name>Fahrib&apos;s Lieutenant</name>
+      <set rarity="rare" splitterPath="/Fahrib's Lieutenant.png" >ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Creature - Azra Assassin </type>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Each opponent’s maximum hand size is reduced by the number of counters on Fahrib’s Lieutenant.
+Whenever an opponent discards a card, put a +1/+1 counter on Fahrib’s Lieutenant.
+---
+(Front): Listless Vagabond</text>
+    </card>
+    <card>
+      <name>Inspiring Tactician</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Nephilim Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Inspiring Tactician or another permanent you control becomes the target of a spell or ability you don’t control, amass Soldiers 1. (Put a +1/+1 counter on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)</text>
+    </card>
+    <card>
+      <name>Chained to the Roc</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature with flying you control
+When Chained to the Roc enters, exile target nonland permanent an opponent controls until Chained to the Roc leaves the battlefield.</text>
+    </card>
+    <card>
+      <name>Empyrean Scholar</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5UU</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Angel Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As an additional cost to cast this spell, you may tap
+any number of untapped Angels or Nephilim you control. This spell costs {1} less to cast for each creature tapped this way.
+Flying, vigilance
+When Empyrean Scholar enters, each creature tapped to pay this spell’s additional cost becomes a 4/4 Angel creature with flying and vigilance. (This effect lasts indefinitely.)</text>
+    </card>
+    <card>
+      <name>Accession of Kaneh</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>XB</manacost>
+        <cmc>1</cmc>
+        <type>Battle - Encounter </type>
+        <maintype>Battle</maintype>
+      <loyalty>X</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As an Encounter enters, choose an opponent to protect it. You and others can attack it. When defense counters are removed, create a 0/0 Army token if you don’t control one, then put that many +1/+1 counters on a Army you control.)
+When Accession of Kaneh enters, return any number of creature cards in your graveyard with total mana value X or less to the battlefield. They become Armies in addition to their other types.</text>
+    </card>
+    <card>
+      <name>Slinking Raider</name>
+      <set rarity="rare" splitterPath="/Slinking Raider.png" >ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Azra Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Slinking Raider can’t be blocked by creatures with greater power.
+Whenever Slinking Raider deals damage to a player or noncreature permanent, put a +1/+1 counter on it.
+Surpass 5R (4R: Transform this creature.
+This costs {1} less to activate for each counter on it. Activate only as a sorcery.)
+---
+(Back): Forthright Wrecker</text>
+      <related attach="transform">Forthright Wrecker</related>
+    </card>
+    <card>
+      <name>Forthright Wrecker</name>
+      <set rarity="rare" splitterPath="/Forthright Wrecker.png" >ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Creature - Demon Warrior </type>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever Forthright Wrecker deals damage to a player or noncreature permanent, it deals that much damage to each planeswalker that player controls and each battle that player protects.
+---
+(Front): Slinking Raider</text>
+    </card>
+    <card>
+      <name>Spawn of Andazir</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>XG</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Snake Hydra </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Spawn of Andazir enters with X +1/+1
+counters on it.
+Lionize 2G (2G, Exile this card from your hand:
+Put a +1/+1 counter on target creature and it gains the following ability until end of turn. You may cast this card on a later turn from exile.)
+Whenever this creature deals damage to a player or noncreature permanent, double the number of +1/+1
+counters on it.</text>
+    </card>
+    <card>
+      <name>Consult the Lineage</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, you gain 1 life and surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
+At the beginning of your end step, you may pay 2W. If you do, return target creature card with mana value X or less from your graveyard to the battlefield with a finality counter on it, where X is the number of card types among cards in
+your graveyard.</text>
+    </card>
+    <card>
+      <name>That From Beyond the Zagos</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>2UB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Whenever That From Beyond the Zagos or you cast a spell from anywhere other than your hand, draw a card.</text>
+    </card>
+    <card>
+      <name>Predatory Tombstalker</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>BRG</colors>
+        <manacost>1BRG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Manticore Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, trample
+You may sacrifice a creature rather than pay the lionize costs of cards in your hand.</text>
+    </card>
+    <card>
+      <name>Guardian of Untold Riches</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>3RG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Guardian of Untold Riches attacks, each player creates three Treasure tokens.
+WUBRG: Shuffle your library, then exile the top card. Until end of turn, you may play that card without paying its mana cost.</text>
+    </card>
+    <card>
+      <name>A Matricide Most Foul</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>2GW</manacost>
+        <cmc>4</cmc>
+        <type>Battle - Encounter </type>
+        <maintype>Battle</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As an Encounter enters, choose an opponent to protect it. You and others can attack it. When defense counters are removed, create a 0/0 Army token if you don’t control one, then put that many +1/+1 counters on a Army you control.)
+When A Matricide Most Foul enters or is defeated, each opponent exiles a permanent they control with the highest mana value among nonland permanents they control.</text>
+    </card>
+    <card>
+      <name>Rhythm of Soli</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As Rhythm of Soli enters , choose Atieh or Kahroba.
+• Atieh — Creatures you control have lifelink.
+• Kahroba — Creatures you control enter the battlefield with an additional +1/+1 counter on them.</text>
+    </card>
+    <card>
+      <name>Ingratiate</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Gain control of target creature if its power is less than or equal to the number of counters on creatures you control.</text>
+    </card>
+    <card>
+      <name>Azra Warshaper</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>BG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Azra Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a Demon spell, you may return an Azra card with lesser mana value than that Demon’s mana value from your graveyard to the battlefield.
+When you cast an Azra spell, mill three cards.</text>
+    </card>
+    <card>
+      <name>Figments of the Muktann</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>2RW</manacost>
+        <cmc>4</cmc>
+        <type>Battle - Encounter </type>
+        <maintype>Battle</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As an Encounter enters, choose an opponent to protect it. You and others can attack it. When defense counters are removed, create a 0/0 Army token if you don’t control one, then put that many +1/+1 counters on a Army you control.)
+Whenever a creature you control attacks Figments of the Muktann, create a token that’s a copy of that creature that’s tapped and attacking the player protecting Figments of the Muktann. Sacrifice the token at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>Dreaded of Sahra</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>6GG</manacost>
+        <cmc>8</cmc>
+        <type>Creature - Demon Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>8/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When Dreaded of Sahra enters, creatures you control become 8/8 Demons in addition to their other types until end of turn.</text>
+    </card>
+    <card>
+      <name>Atiehs Disciple</name>
+      <set rarity="rare" splitterPath="/Atiehs Disciple.png" >ROS</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>WU</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Nephilim Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{2}: Atieh’s Disciple gains flying, vigilance, or lifelink until end of turn.
+Whenever another Angel or Nephilim enters under your control, put a +1/+1 counter on Atieh’s Disciple.
+Surpass 3WU (3WU: Transform this creature. This costs {1} less to activate for each counter on it. Activate only as a sorcery.)
+---
+(Back): Atieh&apos;s Favored</text>
+      <related attach="transform">Atieh&apos;s Favored</related>
+    </card>
+    <card>
+      <name>Atieh&apos;s Favored</name>
+      <set rarity="rare" splitterPath="/Atieh's Favored.png" >ROS</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Creature - Angel Cleric </type>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance, lifelink
+Whenever Atieh’s Favored attacks, put a +1/+1 counter on each other Angel or Nephilim creature you control.
+---
+(Front): Atiehs Disciple</text>
+    </card>
+    <card>
+      <name>Peer into Eternity</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>XUUU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast for each Angel and/or Nephilim you control.
+Draw X cards.</text>
+    </card>
+    <card>
+      <name>Triumphant Greed</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature or planeswalker. Its controller creates two tapped Treasure tokens.</text>
+    </card>
+    <card>
+      <name>Rhythm of Avaz</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As Rhythm of Avaz enters, choose Cyrukan or Sahra.
+• Cyrukan — At the beginning of combat on your turn, put a +1/+1 counter on target creature you control.
+• Sahra — Creatures you control have menace and haste and attack each combat if able.</text>
+    </card>
+    <card>
+      <name>Rhythm of Danaj</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As Rhythm of Danaj enters, choose Martoob or Tamaak.
+• Martoob — At the beginning of your end step, return a card at random from your graveyard to your hand.
+• Tamaak — At the beginning of your end step, you may sacrifice a creature. If you do, draw cards equal to its power.</text>
+    </card>
+    <card>
+      <name>Revitalized Vizier</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>2WB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Zombie Wizard Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch, lifelink
+When Revitalized Vizier enters, search your library for up to two cards with different names, put them into your graveyard, then shuffle.</text>
+    </card>
+    <card>
+      <name>Abbas and Laila</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>2UR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Merfolk Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast your first noncreature spell each turn, you may cast a creature spell that costs less than the noncreature spell without paying its mana cost.
+Whenever you attack with three or more creatures, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.</text>
+    </card>
+    <card>
+      <name>The Horde That Never Ends</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Zombie Soldier Army </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If you would create an Army token while The Horde That Never Ends is in your graveyard, you may instead return The Horde That Never Ends from your graveyard to the battlefield.
+Counters remain on The Horde That Never Ends as it moves to any zone other than a player’s hand or library.</text>
+    </card>
+    <card>
+      <name>Last Priest of Hadak</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Last Priest of Hadak attacks, you may discard a card. If you do, draw a card.
+Whenever you discard a card, you may exile that card from your graveyard. During any turn you dealt damage to a player with a Dragon or Shaman, you may play that card.</text>
+    </card>
+    <card>
+      <name>Nozar, Dunesea Merchant</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>GU</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Merchant </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If a creature with a +1/+1 counter on it you control would die, instead remove a counter from it. If you do, it phases out. (Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)</text>
+    </card>
+    <card>
+      <name>Rally the Armies</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Amass Soldiers 8. (Put eight +1/+1 counters on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)</text>
+    </card>
+    <card>
+      <name>Rhythm of Kaneh</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As Rhythm of Kaneh enters, choose Andazir or Mahara.
+• Andazir — Whenever a creature you control attacks, defending player discards a card.
+• Mahara — Whenever a nontoken creature you control dies, amass Soldiers X, where X is that creature’s power.</text>
+    </card>
+    <card>
+      <name>Savior Tactician</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Angel Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lionize 1W (1W, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)
+Flying
+Other creatures you control get +1/+1.</text>
+    </card>
+    <card>
+      <name>Martoob Lifeshaper</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Nephilim Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lionize 3U (3U, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following ability until end of turn. You may cast this card on a later turn from exile.)
+Whenever this creature deals combat damage to a player, draw that many cards.</text>
+    </card>
+    <card>
+      <name>Dali, the Eyes of Danaj</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>UBG</colors>
+        <manacost>3BGU</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Sphinx Noble </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+At the beginning of your end step, each opponent chooses one. The same mode may be chosen more than once.
+• You and that player create two Treasure tokens.
+• You and that player each draw a card and each lose 1 life.
+• You and that player each create a 1/1 white Soldier creature token.</text>
+    </card>
+    <card>
+      <name>Desolate Advance</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You draw a card and you lose 1 life.
+Whenever you cast a spell from anywhere other than your hand, you may pay 1 life. If you do, return Desolate Advance from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Smiting Blow</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Smiting Blow deals 4 damage to any target.
+2R, Exile Smiting Blow from your graveyard: Search your library for an Ameret planeswalker card or a card named The Lost and Seeking, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Streetwise Arcanist</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of each end step, if you’ve cast a noncreature spell this turn, put a +1/+1 counter on Streetwise Arcanist. If that spell’s mana value was 5 or greater, instead create a 4/4 white Angel Soldier creature token with flying.</text>
+    </card>
+    <card>
+      <name>Variety of Goods</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5G</manacost>
+        <cmc>6</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return an artifact card from your graveyard to your hand. If you can’t, you gain 2 life. Repeat this process for battle, creature, enchantment, land, and planeswalker.
+Put Variety of Goods on the bottom of its owner’s library.</text>
+    </card>
+    <card>
+      <name>Shideh, Avazs Conqueror</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>WRG</colors>
+        <manacost>RGW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}, Sacrifice a land: Create a Treasure token and a Weapon token. (It’s an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.”)
+Whenever a land is put into your graveyard from the battlefield, search your library for a land card, put it onto the battlefield tapped, then shuffle. This ability triggers once per turn.</text>
+    </card>
+    <card>
+      <name>In Blood, Vengeance</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose target creature you control. Exile each creature you control, then create that many tokens that are copies of the chosen creature, except they aren’t legendary and gain haste. At the beginning of the next end
+step, sacrifice those tokens, then return the exiled cards to the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Ineptitude</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>URG</colors>
+        <manacost>2GUR</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Ineptitude enters, untap and gain control of target creature until end of turn. Put three stun counters on that creature and it gets +3/+3 and gains haste until end of turn.</text>
+    </card>
+    <card>
+      <name>Parastu, Soli&apos;s Overseer</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>WUG</colors>
+        <manacost>GWU</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of combat on your turn, amass Soldiers 1. (Put a +1/+1 counter on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)
+Armies you control have flying and lifelink.</text>
+    </card>
+    <card>
+      <name>The Brink of War</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>WBG</colors>
+        <manacost>2WBG</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy all creatures. Amass Soldiers X, where X is the number of creatures destroyed this way. (Put X +1/+1 counters on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)</text>
+    </card>
+    <card>
+      <name>Harsh Spahbed</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Demon Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever an ability of a non-Demon permanent an opponent controls triggers, amass Soldiers 1 unless its controller pays {2}. (To amass Soldiers 1, put a +1/+1 counter on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)</text>
+    </card>
+    <card>
+      <name>Zhubin, Spear of Kaneh</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>WBR</colors>
+        <manacost>3RWB</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward—{X}, Pay X life, where X is the number of card types among permanents
+Zhubin, Spear of Kaneh’s controller controls.
+At the beginning of your end step, you draw X cards and gain X life, where X
+is the number of card types among cards
+you’ve played this turn.</text>
+    </card>
+    <card>
+      <name>Bloodthirsty Manticore</name>
+      <set rarity="rare" splitterPath="/Bloodthirsty Manticore.png" >ROS</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>2BR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Manticore </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+If a counter would be put on another permanent, instead put that many +1/+1 counters on Bloodthirsty Manticore.
+Surpass 6BR (6BR: Transform this creature. This costs {1} less to activate for each counter on it. Activate only as a sorcery.)
+---
+(Back): Bloodclaw Demon</text>
+      <related attach="transform">Bloodclaw Demon</related>
+    </card>
+    <card>
+      <name>Bloodclaw Demon</name>
+      <set rarity="rare" splitterPath="/Bloodclaw Demon.png" >ROS</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Creature - Demon Manticore </type>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, menace
+Whenever Bloodclaw Demon attacks, exile the top X cards of your library, where X is the number of counters on Bloodclaw Demon. You may play cards exiled this way until end of turn.
+---
+(Front): Bloodthirsty Manticore</text>
+    </card>
+    <card>
+      <name>From the Skies, Peace</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost>3URW</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile any number of target creatures you control. For each creature exiled this way, create a token that’s a copy of it, except it’s
+a 4/4 white Angel Soldier with flying in addition to its other types.</text>
+    </card>
+    <card>
+      <name>Sadegh, Tyrant of Nizev</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>UBR</colors>
+        <manacost>4UBR</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Creature - Dragon Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever an opponent has life less than or equal to the total number of instant and sorcery cards in your graveyard and cards you own in exile with flashback, that player loses the game.</text>
+    </card>
+    <card>
+      <name>Wretched Skulker</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a nontoken creature enters under your control, if it wasn’t cast, put a +1/+1 counter on Wretched Skulker.
+Whenever a creature you control deals combat damage to a player or noncreature permanent, you may exile that creature. If you do, return it to the battlefield tapped under your control.</text>
+    </card>
+    <card>
+      <name>Rhythm of Nizev</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As Rhythm of Nizev enters, choose Fahrib or Rahstadhe.
+• Fahrib — Spells you cast from anywhere other than your hand cost {2} less to cast.
+• Rahstadhe — Creatures you control have prowess. (Multiple instances of prowess stack.)</text>
+    </card>
+    <card>
+      <name>Backalley Connections</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Satrapies you control have “{2}, {T}, Pay 1 life: Draw a card.”
+Satrapycycling {2} ({2}, Discard this card: Search your library for a Satrapy card, reveal it, and put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Accession of Avaz</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Battle - Encounter </type>
+        <maintype>Battle</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As an Encounter enters, choose an opponent to protect it. You and others can attack it. When defense counters are removed, create a 0/0 Army token if you don’t control one, then put that many +1/+1 counters on a Army you control.)
+When Accession of Avaz enters, it deals 3 damage to each creature.</text>
+    </card>
+    <card>
+      <name>Shamaran of the Empty Sea</name>
+      <set rarity="mythic">ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Snake Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As another creature enters under your control, you may exile a creature card you own from outside the game that has the same mana value as that creature and shares a color with it. If you do, that creature enters as a copy of the exiled card.</text>
+    </card>
+    <card>
+      <name>Hayat, Hungering Bakhtak</name>
+      <set rarity="mythic" splitterPath="/Hayat, Hungering Bakhtak.png" >ROS</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1B/GB/G</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Hag Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward—Sacrifice a permanent.
+Whenever a player sacrifices a permanent, put a +1/+1 counter on Hayat, Hungering Bakhtak.
+Surpass 11BG (11BG: Transform this creature. This costs {1} less to activate for each counter on it. Activate only as a sorcery.)
+---
+(Back): The All-Consuming Swarm</text>
+      <related attach="transform">The All-Consuming Swarm</related>
+    </card>
+    <card>
+      <name>The All-Consuming Swarm</name>
+      <set rarity="mythic" splitterPath="/The All-Consuming Swarm.png" >ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Legendary Planeswalker - Hayat </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As this permanent transforms into The All-Consuming Swarm, remove all counters from her, then put that many loyalty counters on The All-Consuming Swarm.
+[+2]: For each permanent type, destroy up to one target permanent of that type.
+[-X]: Repeat the following process X times. Each opponent loses 3 life unless that player sacrifices a nonland permanent or discards a card.
+
+---
+(Front): Hayat, Hungering Bakhtak</text>
+    </card>
+    <card>
+      <name>Acrimony</name>
+      <set rarity="mythic">ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+{2}, Remove two counters from Acrimony: Each opponent loses 2 life and you gain 2 life.
+At the beginning of your end step, for each permanent, move a counter from that permanent onto Acrimony.</text>
+    </card>
+    <card>
+      <name>Hollow Simulacrum</name>
+      <set rarity="mythic">ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each player exiles two nonland permanents they control. For each nontoken permanent exiled this way, its controller creates a tapped token that’s a copy of it, except it’s an enchantment.
+(It has no other types.)</text>
+    </card>
+    <card>
+      <name>Jals Spawn</name>
+      <set rarity="mythic">ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Manticore </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever Jal’s Spawn or another Manticore enters under your control, if it’s your turn, that Manticore gains haste until end of turn. At the beginning of your next postcombat main phase this turn, untap it. After that main phase, there’s an additional combat phase.</text>
+    </card>
+    <card>
+      <name>Colossus of Alkabah</name>
+      <set rarity="mythic">ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Manticore </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+If one or more counters would be put on a permanent you control, three times that many counters are put on that permanent instead.</text>
+    </card>
+    <card>
+      <name>Founding of Danaj</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Battle - Encounter </type>
+        <maintype>Battle</maintype>
+      <loyalty>2</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As an Encounter enters, choose an opponent to protect it. You and others can attack it. When defense counters are removed, create a 0/0 Army token if you don’t control one, then put that many +1/+1 counters on a Army you control.)
+When Founding of Danaj enters, return target creature an opponent controls to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Settling of Nizev</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Battle - Encounter </type>
+        <maintype>Battle</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As an Encounter enters, choose an opponent to protect it. You and others can attack it. When defense counters are removed, create a 0/0 Army token if you don’t control one, then put that many +1/+1 counters on a Army you control.)
+When Settling of Nizev enters, look at the top four cards of an
+opponent’s library, exile two of them, and put the rest on the bottom of their library in a random order. For as long as they remain exiled, you may play those cards, and mana of any type can be spent to cast them.</text>
+    </card>
+    <card>
+      <name>Settling of Avaz</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Battle - Encounter </type>
+        <maintype>Battle</maintype>
+      <loyalty>1</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As an Encounter enters, choose an opponent to protect it. You and others can attack it. When defense counters are removed, create a 0/0 Army token if you don’t control one, then put that many +1/+1 counters on a Army you control.)
+When Settling of Avaz enters, create two 1/1 white Soldier creature tokens.</text>
+    </card>
+    <card>
+      <name>Founding of Soli</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Battle - Encounter </type>
+        <maintype>Battle</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As an Encounter enters, choose an opponent to protect it. You and others can attack it. When defense counters are removed, create a 0/0 Army token if you don’t control one, then put that many +1/+1 counters on a Army you control.)
+When Founding of Soli enters, amass Soldiers 3. (Put three +1/+1 counters on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)</text>
+    </card>
+    <card>
+      <name>Conquest of Avaz</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Battle - Encounter </type>
+        <maintype>Battle</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As an Encounter enters, choose an opponent to protect it. You and others can attack it. When defense counters are removed, create a 0/0 Army token if you don’t control one, then put that many +1/+1 counters on a Army you control.)
+When Conquest of Avaz enters, return target creature card from your graveyard to the battlefield. That creature becomes an Army in addition to its other types.</text>
+    </card>
+    <card>
+      <name>Conquest of Nizev</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Battle - Encounter </type>
+        <maintype>Battle</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As an Encounter enters, choose an opponent to protect it. You and others can attack it. When defense counters are removed, create a 0/0 Army token if you don’t control one, then put that many +1/+1 counters on a Army you control.)
+When Conquest of Nizev enters, return target instant or sorcery card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Conquest of Danaj</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Battle - Encounter </type>
+        <maintype>Battle</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As an Encounter enters, choose an opponent to protect it. You and others can attack it. When defense counters are removed, create a 0/0 Army token if you don’t control one, then put that many +1/+1 counters on a Army you control.)
+When Conquest of Danaj enters, target player reveals their hand. You choose a nonland card from it. That player discards that
+card and you lose 1 life.</text>
+    </card>
+    <card>
+      <name>Coagulating Strength</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>For each permanent you control with a counter on it, put another counter of that kind on it or remove one from it. For each counter put on a permanent this way or removed from a permanent this way, amass Soldiers that many times. (Put that many +1/+1 counters on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)</text>
+    </card>
+    <card>
+      <name>Herald of Atieh</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>WU</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Nephilim Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Other Angels and Nephilim you control get +1/+1.
+As long as you control four or more other Angels and/or Nephilim, Herald of Atieh gets +1/+1 and has flying. </text>
+    </card>
+    <card>
+      <name>Ruthless Bakhtak</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Hag Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a spell from anywhere other than your hand, return Ruthless Bakhtak from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Djinn of the Waning Candle</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>3BR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Djinn Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a creature you control dies, create a tapped Treasure token.
+{1}, Sacrifice a creature: Exile the top card of your library. You may play that card this turn.</text>
+    </card>
+    <card>
+      <name>Founding of Avaz</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Battle - Encounter </type>
+        <maintype>Battle</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As an Encounter enters, choose an opponent to protect it while you and other players attack it. When defense counters are removed, create a 0/0 Army token if you don’t control one, then put that many +1/+1 counters on a Army you control.)
+When Founding of Avaz enters, search your library for a basic land or a Satrapy card, put them onto the battlefield tapped, then shuffle.</text>
+    </card>
+    <card>
+      <name>Valiant Cataphract</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>2GW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If one or more counters would be put on a creature you control, that many plus one of each of those kinds of counters are put on that creature instead.</text>
+    </card>
+    <card>
+      <name>Angel of Despair</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>3WWBB</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Angel of Despair enters, destroy target permanent.</text>
+    </card>
+    <card>
+      <name>Selection at Danaj</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target opponent chooses a number from 2 to 5. Search your library for a card with a mana value equal to the chosen value not named Selection at Danaj and exile it, then shuffle. You may cast that card if it has a mana value equal the chosen value without paying its mana cost.</text>
+    </card>
+    <card>
+      <name>Herald of Tamaak</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>BG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Azra Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Other Azra and Demons you control get +1/+1.
+As long as you control four or more other Azra and/or Demons, Herald of Tamaak gets +1/+1 and has flying.</text>
+    </card>
+    <card>
+      <name>Conquest of Kaneh</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Battle - Encounter </type>
+        <maintype>Battle</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As an Encounter enters, choose an opponent to protect it. You and others can attack it. When defense counters are removed, create a 0/0 Army token if you don’t control one, then put that many +1/+1 counters on a Army you control.)
+When Conquest of Kaneh enters, if you cast it, exile target creature you control, then return it to the battlefield under its owner’s control. Create
+a token that’s a copy of it. Those creatures gain haste until end of turn. Sacrifice the token at the beginning of the next end step. </text>
+    </card>
+    <card>
+      <name>Settling of Danaj</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Battle - Encounter </type>
+        <maintype>Battle</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As an Encounter enters, choose an opponent to protect it. You and others can attack it. When defense counters are removed, create a 0/0 Army token if you don’t control one, then put that many +1/+1 counters on a Army you control.)
+When Settling of Danaj enters, put a +1/+1 counter on each creature you control.</text>
+    </card>
+    <card>
+      <name>Fulfill the Contract</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Fulfill the Contract deals X damage to target creature or planeswalker and you gain X life, where X is the number of Satrapies you control.
+Satrapycycling {2} ({2}, Discard this card: Search your library for a Satrapy card, reveal it, and put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Acolyte of the Far Winds</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>WUB</colors>
+        <manacost>2WUB</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Angel Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you attack with one or more creatures with flying, you may mill that many cards. If you do, you may cast a card milled this way. (You still pay its costs.)</text>
+    </card>
+    <card>
+      <name>Firebolt</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Firebolt deals 2 damage to any target.
+Flashback 4R (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Adrift into Endless Stories</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>WUG</colors>
+        <manacost>GWU</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature you control with power less than its toughness attacks and isn’t blocked, you may draw a card.
+Each creature you control assigns combat damage to creatures equal to its toughness rather than its power.</text>
+    </card>
+    <card>
+      <name>Mehr&apos;s Endless Horde</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>WBG</colors>
+        <manacost>1WBG</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your end step, mill two cards and amass Soldiers 1.
+Sacrifice an Army: Return target creature card with mana value equal to or less than the sacrificed creature’s power from your graveyard to the battlefield. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Descent of the Div</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>UBG</colors>
+        <manacost>2BGU</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a 2/1 black Horror creature token for each creature card in your graveyard.
+Flashback 4BGU (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>On Andazirs Whims</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>WBR</colors>
+        <manacost>2RWB</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose a creature card in your graveyard. Sacrifice a creature. If you do, return the chosen card to the battlefield, then create a token that’s a copy of that creature. Both creatures gain haste until end of turn. Sacrifice the token at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>Accept into the Fold</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a land enters under
+your control, amass Soldiers 1. If that land is
+a Satrapy, amass Soldiers 2 instead. (To amass Soldiers 2, put two +1/+1 counters on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)</text>
+    </card>
+    <card>
+      <name>Djinn of Unfolding Truths</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost>3URW</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Djinn Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lionize URW (URW, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following ability until end of turn. You may cast this card on a later turn from exile.)
+Whenever a creature you control deals combat damage to a player or noncreature permanent, create a token that’s a copy of that creature, then exile the token.</text>
+    </card>
+    <card>
+      <name>Echo of the Simurgh</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>UBR</colors>
+        <manacost>UBR</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you cast a spell from anywhere other than your hand, you may sacrifice a creature. If you do, copy that spell. You may choose new targets for the copy.</text>
+    </card>
+    <card>
+      <name>Dunesea Dreadstalker</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>WRG</colors>
+        <manacost>RGW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Tokens you control have “{T}: Add one mana of any color.”
+{7}: Create a token that’s a copy of another target creature you control. That token gains haste. Exile it at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>Prepare for War</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of each end step, if you’ve cast a noncreature spell this turn, amass Soldiers 1. (Put a +1/+1 counter on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)</text>
+    </card>
+    <card>
+      <name>Aswaran Conquerer</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>BRG</colors>
+        <manacost>2BRG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Azra Knight </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever Aswaran Conquerer attacks, you may sacrifice a nonland permanent. If you don’t, create a Treasure token. If you do, creatures you control get +1/+1 and gain trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Shah&apos;s Caravan</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Elephant </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Shah’s Caravan attacks, creatures you control get +1/+1 until end of turn. If you control three or more Satrapies, creatures you control can’t be blocked by creatures with power 2 or less this turn.
+Satrapycycling {2} ({2}, Discard this card: Search your library for a Satrapy card, reveal it, and put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Gather the Forces</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your end step, amass Soldiers 1. (Put a +1/+1 counter on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)</text>
+    </card>
+    <card>
+      <name>Blessing from Wings on High</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>XWW</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Blessing from Wings on High enters, you may search your library for an Angel or Nephilim card with mana value X or less, put it onto the battlefield, then shuffle. X can’t be 0.
+Creatures you control get +1/+0.</text>
+    </card>
+    <card>
+      <name>The Pillaging of Kaneh</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>The Pillaging of Kaneh deals X damage to each creature and each planeswalker, where X is the number of Satrapies you control.</text>
+    </card>
+    <card>
+      <name>Spawn of Hadak</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>URG</colors>
+        <manacost>1GUR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Spawn of Hadak attacks, you may discard a card. If you do, draw a card.
+Whenever you discard a card, put a +1/+1 counter on Spawn of Hadak.</text>
+    </card>
+    <card>
+      <name>Andazirs Disdain</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose two —
+• Target creature gets -2/-2 until end of turn.
+• You gain 2 life.
+• Amass Soldiers 1. (Put a +1/+1 counter on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)</text>
+    </card>
+    <card>
+      <name>Consult the Cosmos</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Surveil X, where X is the number of Satrapies you control. Draw three cards. (To surveil X, look at the top X cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Satrapycycling {2} ({2}, Discard this card: Search your library for a Satrapy card, reveal it, and put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Advocate of Ideals</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Nephilim Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+1GU: Put a +1/+1 counter on Advocate of Ideals. Until end of turn, it becomes an Angel in addition to its other types and gains flying and vigilance.</text>
+    </card>
+    <card>
+      <name>Angel of Wisdom</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Angel Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you cast a spell from anywhere other than your hand, you may choose one —
+• Draw a card, then discard a card.
+• Angel of Wisdom phases out. (Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)</text>
+    </card>
+    <card>
+      <name>Smiting Helix</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Smiting Helix deals 3 damage to any target and you gain 3 life.
+Flashback RW (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Ambitious Truthseeker</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Nephilim Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lionize 3R (3R, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)
+Menace
+Whenever this creature deals damage to a player or noncreature permanent, create that many Treasure tokens.</text>
+    </card>
+    <card>
+      <name>Conquest of Soli</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Battle - Encounter </type>
+        <maintype>Battle</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As an Encounter enters, choose an opponent to protect it. You and others can attack it. When defense counters are removed, create a 0/0 Army token if you don’t control one, then put that many +1/+1 counters on a Army you control.)
+When Conquest of Soli enters, reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>Garrison Warden</name>
+      <set rarity="uncommon" splitterPath="/Garrison Warden.png" >ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Nephilim Archer </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Garrison Warden enters, put a +1/+1 counter on target creature you control.
+Surpass 4W (4W: Transform this. This costs {1} less to activate for each counter on 
+it. Activate only as a sorcery.)
+---
+(Back): Cyrukan Weaponmaster</text>
+      <related attach="transform">Cyrukan Weaponmaster</related>
+    </card>
+    <card>
+      <name>Cyrukan Weaponmaster</name>
+      <set rarity="uncommon" splitterPath="/Cyrukan Weaponmaster.png" >ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Creature - Angel Archer </type>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Cyrukan Weaponmaster attacks, amass Soldiers 1. (Put a +1/+1 counter on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)
+---
+(Front): Garrison Warden</text>
+    </card>
+    <card>
+      <name>Scholar&apos;s Delight</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a noncreature card, put it into your graveyard, then shuffle.
+Flashback 2U (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Founding of Kaneh</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Battle - Encounter </type>
+        <maintype>Battle</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As an Encounter enters, choose an opponent to protect it. You and others can attack it. When defense counters are removed, create a 0/0 Army token if you don’t control one, then put that many +1/+1 counters on a Army you control.)
+When Founding of Kaneh enters, destroy up to one target creature or planeswalker.</text>
+    </card>
+    <card>
+      <name>Advocate of Foibles</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Azra Noble </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice a creature: Until end of turn, Advocate of Foibles gets +2/+2 and becomes an Demon in addition to its other types.
+1BG: Amass Soldiers 1. (Put a +1/+1 counter on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)</text>
+    </card>
+    <card>
+      <name>Dunesea Merchant</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Merchant </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Dunesea Merchant enters, tap up to X target creatures, where X is the number of Satrapies you control.
+Satrapycycling {2} ({2}, Discard this card: Search your library for a Satrapy card, reveal it, and put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Fury of Cyrukan</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gains flying and double strike until end of turn.
+Flashback 1UR (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Martoob&apos;s Forerunner</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Nephilim Scout </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+You may cast Angel and Nephilim spells as though they had flash.</text>
+    </card>
+    <card>
+      <name>Chaosbender</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Azra Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast an instant or sorcery spell, you may pay UR. If you do, copy that spell. You may choose new targets for the copy.</text>
+    </card>
+    <card>
+      <name>Refracting Image</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a token that’s a copy of target creature, except it has haste and “At the beginning of the end step, sacrifice this permanent.”
+Flashback 1GU (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Fracturing Swipe</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target noncreature, nonland permanent. (Destroying a battle doesn’t remove counters from it.)
+Flashback 3WB (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Settling of Kaneh</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Battle - Encounter </type>
+        <maintype>Battle</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As an Encounter enters, choose an opponent to protect it. You and others can attack it. When defense counters are removed, create a 0/0 Army token if you don’t control one, then put that many +1/+1 counters on a Army you control.)
+When Settling of Kaneh enters, create two 1/1 white Soldier creature tokens if you control fewer creatures than an opponent. Then, you gain 4 life if you have less life than an opponent.</text>
+    </card>
+    <card>
+      <name>Soli Wisdomancer</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Nephilim Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Soli Wisdomancer attacks, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
+2WB, {T}, Sacrifice Soli Wisdomancer: You may cast target creature card in your graveyard without paying its mana cost. Activate only as a sorcery. </text>
+    </card>
+    <card>
+      <name>Kingpin of Nizev</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Kingpin of Nizev enters, create two 1/1 white Soldier creature tokens.
+Sacrifice a creature: Each opponent loses 1 life. Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Rahstadhes Swiftspear</name>
+      <set rarity="uncommon" splitterPath="/Rahstadhes Swiftspear.png" >ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+At the beginning of each end step, put a +1/+1 counter on Rahstadhe’s Swiftspear if you cast a noncreature spell this turn.
+Surpass 3R (3R: Transform this creature. This costs {1} less to activate for each counter on it. Activate only as a sorcery.)
+---
+(Back): Rahstadhe&apos;s Firefist</text>
+      <related attach="transform">Rahstadhe&apos;s Firefist</related>
+    </card>
+    <card>
+      <name>Rahstadhe&apos;s Firefist</name>
+      <set rarity="uncommon" splitterPath="/Rahstadhe's Firefist.png" >ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Creature - Nephilim Warrior </type>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a noncreature spell, put a +1/+1 counter on Rahstadhe’s Firefist. It gains menace until end of turn.
+---
+(Front): Rahstadhes Swiftspear</text>
+    </card>
+    <card>
+      <name>Quickstep Ranger</name>
+      <set rarity="uncommon" splitterPath="/Quickstep Ranger.png" >ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of each end step, put a +1/+1 on Quickstep Ranger for each +1/+1
+counter you’ve put on creatures under your control this turn.
+Surpass 10G (10G: Transform this creature. This costs {1} less to activate for each counter
+on it. Activate only as a sorcery.)
+---
+(Back): Lifestep Ranger</text>
+      <related attach="transform">Lifestep Ranger</related>
+    </card>
+    <card>
+      <name>Lifestep Ranger</name>
+      <set rarity="uncommon" splitterPath="/Lifestep Ranger.png" >ROS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Creature - Nephilim Ranger </type>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Each creature you control gets +1/+1 for each +1/+1 counter on it.
+---
+(Front): Quickstep Ranger</text>
+    </card>
+    <card>
+      <name>Standoff</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Prevent all combat damage that would be dealt this turn by non-Army creatures.
+Amass Soldiers 2. (Put two +1/+1 counters on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)</text>
+    </card>
+    <card>
+      <name>Tidebender</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Merfolk Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lionize 1U (1U, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following ability until end of turn. You may cast this card on a later turn from exile.)
+Sacrifice Tidebender: Counter target noncreature spell unless its controller pays {X}, where X is Tidebender’s power.</text>
+    </card>
+    <card>
+      <name>Dutybound Ghul</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Zombie Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever you cast a spell from anywhere other than your hand, if it’s your turn, each opponent discards a card. Otherwise, each opponent loses 2 life.</text>
+    </card>
+    <card>
+      <name>Founding of Nizev</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Battle - Encounter </type>
+        <maintype>Battle</maintype>
+      <loyalty>6</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As an Encounter enters, choose an opponent to protect it. You and others can attack it. When defense counters are removed, create a 0/0 Army token if you don’t control one, then put that many +1/+1 counters on a Army you control.)
+When Founding of Nizev enters, exile the top three cards of your library. Until the end of your next turn, you may play those cards.</text>
+    </card>
+    <card>
+      <name>Dunesea Stalker</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Azra Druid Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+{T}: Add one mana of any color. Spend this mana only to cast an Azra or Demon spell, and that spell can’t be countered.</text>
+    </card>
+    <card>
+      <name>Zagos Roc</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Zagos Roc enters, exile target nonland permanent an opponent controls until Zagos Roc leaves the battlefield.</text>
+    </card>
+    <card>
+      <name>Wade Through Treasures</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at the top four cards of your library. Put one into your hand and the rest into your graveyard.
+Flashback 2BG (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Oracle of the Unseen</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Azra Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace, lifelink
+At the beginning of your end step, if a player lost 3 or more life this turn, put a +1/+1 counter on target Azra or Demon you control.</text>
+    </card>
+    <card>
+      <name>Paygan Firebinder</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Azra Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Paygan Firebinder gets +1/+0 for each Satrapy you control.
+Satrapycycling {2} ({2}, Discard this card: Search your library for a Satrapy card, reveal it, and put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Heartweaver</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a creature enters under your control, if it shares a name with another creature you control, put a +1/+1 counter on Heartweaver.
+XRW: Create a token that’s a copy of target creature you control with mana value X. Activate only as a sorcery and only once each turn.</text>
+    </card>
+    <card>
+      <name>Confine to the Oasis</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Confine to the Oasis enters, exile target nonland permanent an opponent controls until Confine to the Oasis leaves the battlefield.
+Whenever an opponent casts a spell, put a searching counter on Confine to the Oasis for each of that card’s colors. Then if there are ten or more searching counters on Confine to the Oasis, sacrifice it and you gain 3 life.</text>
+    </card>
+    <card>
+      <name>Settling of Soli</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Battle - Encounter </type>
+        <maintype>Battle</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As an Encounter enters, choose an opponent to protect it. You and others can attack it. When defense counters are removed, create a 0/0 Army token if you don’t control one, then put that many +1/+1 counters on a Army you control.)
+When Settling of Soli enters, reveal the top four cards of your library. You may put a noncreature card from among them into your hand. Put the rest on the bottom of your library in any order.</text>
+    </card>
+    <card>
+      <name>Traverse the Endless Well</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>1B, Sacrifice a creature: You gain 1 life and draw a card.
+3B, Pay 3 life, Sacrifice Traverse the Endless Well: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Djinn of Incidental Backlashes</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>5RR</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Djinn Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Djinn of Incidental Backlashes enters, it deals 5 damage to up to one target creature or battle.</text>
+    </card>
+    <card>
+      <name>Quake Devourer</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>6G</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>7/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lionize 2G (2G, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)
+Trample
+Whenever this creature deals damage to a player or noncreature permanent, draw a card.</text>
+    </card>
+    <card>
+      <name>Assault on Soli</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures you control get +2/+0 until end of turn. Untap each Army you control.</text>
+    </card>
+    <card>
+      <name>Truthseeker Prodigy</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Truthseeker Prodigy enters, amass Soldiers 2. When you do, target player mills X cards, where X is the amassed Army’s power. (To amass Soldiers 2, put two +1/+1 counters on an Army you control. It’s also a Soldier. If you don’t control an Army, create a 0/0 black Soldier Army creature token first.)</text>
+    </card>
+    <card>
+      <name>Esoteric Visionary</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Azra Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lionize 2B (2B, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following ability until end of turn. You may cast this card on a later turn from exile.)
+Lifelink</text>
+    </card>
+    <card>
+      <name>Shipment Overseer</name>
+      <set rarity="common" splitterPath="/Shipment Overseer.png" >ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Azra Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you sacrifice a permanent, put a +1/+1 counter on Shipment Overseer.
+Surpass 5R (5R: Transform this creature. This costs {1} less to activate for each counter on it. Activate only as a sorcery.)
+---
+(Back): Overseer of Armies</text>
+      <related attach="transform">Overseer of Armies</related>
+    </card>
+    <card>
+      <name>Overseer of Armies</name>
+      <set rarity="common" splitterPath="/Overseer of Armies.png" >ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Creature - Demon Advisor </type>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you sacrifice a permanent, Overseer of Armies deals 1 damage to each opponent and each battle they protect.
+---
+(Front): Shipment Overseer</text>
+    </card>
+    <card>
+      <name>Settling Alkabah</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Amass Soldiers 1. (Put a +1/+1 counter on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)</text>
+    </card>
+    <card>
+      <name>Cast Judgment</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Cast Judgment deals 3 damage to target attacking creature.
+• Exile target artifact or enchantment.</text>
+    </card>
+    <card>
+      <name>Regretful Chronicler</name>
+      <set rarity="common" splitterPath="/Regretful Chronicler.png" >ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Regretful Chronicler is dealt damage, put a +1/+1 counter on it. (It must survive the damage to get the counter.)
+Surpass 5U (5U: Transform this. This
+costs 1 less to activate for each counter on it. Activate only as a sorcery.)
+---
+(Back): Optimistic Chronicler</text>
+      <related attach="transform">Optimistic Chronicler</related>
+    </card>
+    <card>
+      <name>Optimistic Chronicler</name>
+      <set rarity="common" splitterPath="/Optimistic Chronicler.png" >ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Creature - Nephilim Cleric </type>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Optimistic Chronicler deals damage to a player or noncreature permanent, surveil 1, then draw a card. (Look at the top card of your library. You may put that card into your graveyard.)
+---
+(Front): Regretful Chronicler</text>
+    </card>
+    <card>
+      <name>Ruthless Advisor</name>
+      <set rarity="common" splitterPath="/Ruthless Advisor.png" >ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Azra Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counter on Ruthless Advisor.
+Surpass 3B (3B: Transform this creature. This costs {1} less to activate for each counter on it. Activate only as a sorcery.)
+---
+(Back): Ruthless Taromad</text>
+      <related attach="transform">Ruthless Taromad</related>
+    </card>
+    <card>
+      <name>Ruthless Taromad</name>
+      <set rarity="common" splitterPath="/Ruthless Taromad.png" >ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Creature - Demon Advisor </type>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward—Pay 3 life.
+Whenever you cast a spell from anywhere other than your hand, each opponent loses 1 life and you gain 1 life.
+---
+(Front): Ruthless Advisor</text>
+    </card>
+    <card>
+      <name>Eyes of Cyrukan</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Angel Soldier Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Eyes of Cyrukan can’t block.</text>
+    </card>
+    <card>
+      <name>Avaz Sentry</name>
+      <set rarity="common" splitterPath="/Avaz Sentry.png" >ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Archer </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+3G: Put a +1/+1 counter on Avaz Sentry.
+Surpass 5G (5G: Transform this creature. This costs {1} less to activate for each counter on it. Activate only as a sorcery.)
+---
+(Back): Sentinel of Consumption</text>
+      <related attach="transform">Sentinel of Consumption</related>
+    </card>
+    <card>
+      <name>Sentinel of Consumption</name>
+      <set rarity="common" splitterPath="/Sentinel of Consumption.png" >ROS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Creature - Azra Archer </type>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach, ward {3}
+---
+(Front): Avaz Sentry</text>
+    </card>
+    <card>
+      <name>Blessing of Respite</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature you control, then return it to the battlefield under its owner’s control.
+Flashback 1W (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Adrift Surveyor</name>
+      <set rarity="common" splitterPath="/Adrift Surveyor.png" >ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a noncreature spell, put a +1/+1 counter on Adrift Surveyor.
+Surpass 6U (6U: Transform this creature. This costs {1} less to activate for each counter on it. Activate only as a sorcery.)
+---
+(Back): Annointed Truthseeker</text>
+      <related attach="transform">Annointed Truthseeker</related>
+    </card>
+    <card>
+      <name>Annointed Truthseeker</name>
+      <set rarity="common" splitterPath="/Annointed Truthseeker.png" >ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creature - Nephilim Soldier </type>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a noncreature spell, put a +1/+1 counter on Annointed Truthseeker. Up to one target creature can’t block Annointed Truthseeker this turn.
+---
+(Front): Adrift Surveyor</text>
+    </card>
+    <card>
+      <name>EverWandering Vagabond</name>
+      <set rarity="common" splitterPath="/EverWandering Vagabond.png" >ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Azra Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{1}, Sacrifice a creature: Put a +1/+1 counter on Ever-Wandering Vagabond.
+Surpass 3B (3B: Transform this creature. This costs {1} less to activate for each counter on it. Activate only as a sorcery.)
+---
+(Back): Ever-Hungry Tanbaly</text>
+      <related attach="transform">Ever-Hungry Tanbaly</related>
+    </card>
+    <card>
+      <name>Ever-Hungry Tanbaly</name>
+      <set rarity="common" splitterPath="/Ever-Hungry Tanbaly.png" >ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creature - Demon Rogue </type>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{1}, Sacrifice a creature: Ever-Hungry Tanbaly gains indestructible until end of turn. Tap it.
+---
+(Front): EverWandering Vagabond</text>
+    </card>
+    <card>
+      <name>Evening Serenade</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile the top card of your library. Until end of turn, you may play that card.
+Flashback 1R (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Cultivator of Crops</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Cultivator of Crops enters , you may search your library for
+a basic land card or Satrapy card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Sentinel of Avaz</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Angel Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lionize 1W (1W, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following ability until end of turn. You may cast this card on a later turn from exile.)
+Flying</text>
+    </card>
+    <card>
+      <name>Skyborne Strategist</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Angel Scout </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Skyborne Strategist enters, amass Soldiers 1. (Put a +1/+1 counter on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)</text>
+    </card>
+    <card>
+      <name>Demon of Endless Hunger</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Demon Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Demon of Endless Hunger enters, choose one or both —
+• Mill two cards.
+• Exile up to two target cards from graveyards.</text>
+    </card>
+    <card>
+      <name>Vicious Shamshir</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Vicious Shamshir enters, you may attach it to target creature you control. If you do, target creature can’t block this turn.
+Equipped creature gets +2/+0.
+Equip {3}</text>
+    </card>
+    <card>
+      <name>Erode</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one or both —
+• Destroy target artifact or enchantment.
+• Put two defense counters on target battle.</text>
+    </card>
+    <card>
+      <name>Inspiring Overseer</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Angel Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Inspiring Overseer enters, you gain 1 life and draw a card.</text>
+    </card>
+    <card>
+      <name>Implacable Djinn</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Djinn Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>5/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lionize 1U (1U, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following ability until end of turn. You may cast this card on a later turn from exile.) 
+Hexproof</text>
+    </card>
+    <card>
+      <name>Selfserving Ghul</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Zombie Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When Selfserving Ghul enters, remove two counters from target permanent. </text>
+    </card>
+    <card>
+      <name>Figments of Warriors Lost</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a token that’s a copy of target creature, except it’s a Sand in addition to its other types, and has haste and “At the beginning of the end step, sacrifice this permanent.” Each creature with the same name as that creature gains trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Expose Wickedness</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {2} less to cast if you control an Azra or Demon.
+Target creature you control gets +4/+4 and gains trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Vanguard of Glory</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as it’s your turn, Vanguard of Glory has first strike.</text>
+    </card>
+    <card>
+      <name>Tiller of the Paltry Lie</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Demon Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast your first noncreature spell each turn, you may draw a card. If you do, discard a card.</text>
+    </card>
+    <card>
+      <name>Kaneh Siege</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target player discards a card.
+Amass Soldiers 1. (Put a +1/+1 counter on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)</text>
+    </card>
+    <card>
+      <name>Refitting for Battle</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy up to one target artifact.
+Amass Soldiers 2. (Put two +1/+1 counters on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)</text>
+    </card>
+    <card>
+      <name>Martoob Hawker</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Nephilim Scout </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lionize 1G (1G, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following ability until end of turn. You may cast this card on a later turn from exile.)
+This creature assigns combat damage equal to its toughness rather than its power.</text>
+    </card>
+    <card>
+      <name>Zealot of Mahara</name>
+      <set rarity="common" splitterPath="/Zealot of Mahara.png" >ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Nephilim Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another creature you control leaves the battlefield, put a +1/+1 counter on Zealot of Mahara.
+Surpass 6W (6W: Transform this creature. This costs {1} less to activate for each counter on it. Activate only as a sorcery.)
+---
+(Back): Judge of Mahara</text>
+      <related attach="transform">Judge of Mahara</related>
+    </card>
+    <card>
+      <name>Judge of Mahara</name>
+      <set rarity="common" splitterPath="/Judge of Mahara.png" >ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Creature - Angel Cleric </type>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Judge of Mahara or another creature you control leaves the battlefield, you gain 2 life.
+---
+(Front): Zealot of Mahara</text>
+    </card>
+    <card>
+      <name>Reject Wickedness</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell.
+Satrapycycling {2} ({2}, Discard this card: Search your library for a Satrapy card, reveal it, and put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Fiendish Bruiser</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5B</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Demon Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>6/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When Fiendish Bruiser enters, exile up to three cards from target player’s graveyard.</text>
+    </card>
+    <card>
+      <name>Truthbearing Peri</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Angel Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you cast your first noncreature spell each turn, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Commanders Guidance</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +2/+2.
+When enchanted creature dies, amass Soldiers 2. (Put two +1/+1 counters on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)</text>
+    </card>
+    <card>
+      <name>Banishment of Aspirations</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant non-Army creature
+Enchanted creature can’t attack or block.
+When Banishment of Aspirations enters, amass Soldiers 1. (Put a +1/+1 counter on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)</text>
+    </card>
+    <card>
+      <name>Scope the Cosmos</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw two cards.
+Flashback—2U, Discard a card. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Prepare for Assault</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You draw two cards and you lose 2 life.
+Amass Soldiers 2. (Put two +1/+1 counters on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)</text>
+    </card>
+    <card>
+      <name>Hesitant Vanguard</name>
+      <set rarity="common" splitterPath="/Hesitant Vanguard.png" >ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a spell that’s white, blue, black, or green, put a +1/+1 counter on Hesitant Vanguard.
+Surpass 5R (5R: Transform this creature. This costs {1} less to activate for each counter on it. Activate only as a sorcery.)
+---
+(Back): Luminous Vanguard</text>
+      <related attach="transform">Luminous Vanguard</related>
+    </card>
+    <card>
+      <name>Luminous Vanguard</name>
+      <set rarity="common" splitterPath="/Luminous Vanguard.png" >ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creature - Nephilim Soldier </type>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a spell that’s white, blue, black, or green, create a 1/1 white Soldier creature token.
+---
+(Front): Hesitant Vanguard</text>
+    </card>
+    <card>
+      <name>Fell LanternBearer</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Demon Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Fell Lantern-Bearer enters, remove a defense counter from each battle you control, then put a +1/+1 counter on each creature you control with a counter on it.</text>
+    </card>
+    <card>
+      <name>Keen Blademaster</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Keen Blademaster attacks, you may tap target creature.</text>
+    </card>
+    <card>
+      <name>Wave Shield</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast if you control a creature with a counter on it.
+Counter target spell unless its controller pays {2}.</text>
+    </card>
+    <card>
+      <name>Enigmatic Herald</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Angel Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Enigmatic Herald dies, amass Soldiers 2. (Put two +1/+1 counters on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)</text>
+    </card>
+    <card>
+      <name>Frantic Efreetspeaker</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Nephilim Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Frantic Efreetspeaker enters, you may discard a card. If you do, draw a card.
+When Frantic Efreetspeaker dies, create a tapped Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Shah&apos;s Proclamation</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Prevent all combat damage that would be dealt this turn.
+Satrapycycling {2} ({2}, Discard this card: Search your library for a Satrapy card, reveal it, and put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Lowly Cataphract</name>
+      <set rarity="common" splitterPath="/Lowly Cataphract.png" >ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever Lowly Cataphract and at least two other creatures attack, put a +1/+1 counter on Lowly Cataphract.
+Surpass 5W (5W: Transform this. This costs {1} less to activate for each counter on
+it. Activate only as a sorcery.)
+---
+(Back): Keeper of the Bloodline</text>
+      <related attach="transform">Keeper of the Bloodline</related>
+    </card>
+    <card>
+      <name>Keeper of the Bloodline</name>
+      <set rarity="common" splitterPath="/Keeper of the Bloodline.png" >ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creature - Azra Knight </type>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever Keeper of the Bloodline and at least two other creatures attack, creatures you control get +1/+1 until end of turn.
+---
+(Front): Lowly Cataphract</text>
+    </card>
+    <card>
+      <name>Wisdom of the Dunesea</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose any number of permanents and/or players, then give each another counter of each kind already there.
+Flashback 2U (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Astral Assassination</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target player sacrifices a nontoken creature.
+Satrapycycling {2} ({2}, Discard this card: Search your library for a Satrapy card, reveal it, and put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Regroup and Stockpile</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Amass Soldiers 2. (Put two +1/+1 counters on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)
+Flashback 3R (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Day at the Market</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one — 
+• Look at the top five cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+• Destroy target creature with flying.</text>
+    </card>
+    <card>
+      <name>Prepare for Rest</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You gain 3 life.
+Amass Soldiers 1. (Put a +1/+1 counter on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)</text>
+    </card>
+    <card>
+      <name>Tempt with Gifts</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tap target creature. Put a stun counter on it.
+Flashback 1U (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Refine to Nothing</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target player discards two cards.
+Flashback 4B (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Andazir Veteran</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Demon Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Andazir Veteran enters, amass Soldiers 2. (Put two +1/+1 counters on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)</text>
+    </card>
+    <card>
+      <name>Nimble Pathfinder</name>
+      <set rarity="common" splitterPath="/Nimble Pathfinder.png" >ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a land enters under your control, put a +1/+1 counter on Nimble Pathfinder.
+Surpass 5G (5G: Transform this creature. This costs {1} less to activate for each counter on it. Activate only as a sorcery.)
+---
+(Back): Dauntless Pathmaker</text>
+      <related attach="transform">Dauntless Pathmaker</related>
+    </card>
+    <card>
+      <name>Dauntless Pathmaker</name>
+      <set rarity="common" splitterPath="/Dauntless Pathmaker.png" >ROS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Creature - Demon Scout </type>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Dauntless Pathmaker can’t be blocked by creatures with power 2 or less.
+---
+(Front): Nimble Pathfinder</text>
+    </card>
+    <card>
+      <name>Mahara Enforcer</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Nephilim Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+3W: Mahara Enforcer gets +3/+3 until end of turn. Activate only once each turn and only if you control another Angel or Nephilim.</text>
+    </card>
+    <card>
+      <name>Sinking Pessimism</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant non-Army creature
+When Sinking Pessimism enters, tap enchanted creature.
+Enchanted creature doesn’t untap during its controller’s untap step.
+Enchanted creature has “{4}: Untap this creature. If it untapped this way, put a stun counter on it.”</text>
+    </card>
+    <card>
+      <name>Castaway&apos;s Remorse</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature with power 3 or less. Mill three cards.</text>
+    </card>
+    <card>
+      <name>Incendiary Swipe</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Incendiary Swipe deals 3 damage to any target. If it’s a creature, it can’t block this turn.</text>
+    </card>
+    <card>
+      <name>Unstoppable Zealot</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Demon Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever Unstoppable Zealot deals damage to a player or noncreature permanent, you may put a land card from your hand onto the battlefield.</text>
+    </card>
+    <card>
+      <name>Show of Unwavering Honor</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +2/+2.
+Whenever enchanted creature attacks, if you control an Angel or Nephilim, put a +1/+1 counter on target attacking creature you control with lesser power.</text>
+    </card>
+    <card>
+      <name>Acquiesce Position</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target nonland permanent to its owner’s hand.
+Amass Soldiers 1. (Put a +1/+1 counter on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)</text>
+    </card>
+    <card>
+      <name>Fatal Strike</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs 1B less to cast if you’ve cast a spell from anywhere other than your hand this turn.
+Destroy target creature or planeswalker.</text>
+    </card>
+    <card>
+      <name>Ignite the Inner Flame</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +2/+0 and gains first strike until end of turn. If it’s attacking a battle, it gains double strike until end of turn.</text>
+    </card>
+    <card>
+      <name>Kahroba Patrol</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Azra Knight Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Kahroba Patrol dies, you may search your library for up to two basic land cards that don’t share a basic land type, reveal them, put them into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>In Defense of Soli</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature with power 4 or greater.
+Satrapycycling {2} ({2}, Discard this card: Search your library for a Satrapy card, reveal it, and put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Maneli Ambassador</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Merfolk Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a spell from anywhere other than your hand, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Manipulations of the Div</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.
+5B, Sacrifice Manipulations of the Div: It deals 4 damage to target player or battle and you gain 4 life. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Tomb-Raider Duo</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Tomb-Raider Duo enters, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Div of Lethargic Ideals</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lionize {G} ({G}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)
+Vigilance, reach</text>
+    </card>
+    <card>
+      <name>Kaneh Scribe</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Kaneh Scribe enters, amass Soldiers 2. (Put two +1/+1 counters on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)</text>
+    </card>
+    <card>
+      <name>Dewdrop Ordainer</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Angel Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Dewdrop Ordainer dies, put a +1/+1 counter on target creature you control with a counter on it.</text>
+    </card>
+    <card>
+      <name>Drag Through the Alley</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card from your graveyard to your hand.
+Flashback 1B (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Piercing Arrow</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell can’t be countered.
+Piercing Arrow deals 4 damage to any target.</text>
+    </card>
+    <card>
+      <name>Ironclad Sentry</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>6G</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Demon Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+When Ironclad Sentry enters, you may return target permanent card not named Ironclad Sentry from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Bloodline Zealot</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Demon Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+When Bloodline Zealot enters, return target permanent card with mana value 2 or less from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>Brightwing Sphinx</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Angel Sphinx </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you cast a spell from anywhere other than your hand, Brightwing Sphinx gains vigilance until end of turn.</text>
+    </card>
+    <card>
+      <name>Andazirs Pact</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card from your graveyard to the battlefield. If it’s an Azra or Demon, you gain 3 life.</text>
+    </card>
+    <card>
+      <name>Conjure Quicksand</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Conjure Quicksand deals 1 damage to each creature you don’t control.
+Satrapycycling {2} ({2}, Discard this card: Search your library for a Satrapy card, reveal it, and put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Cherish the Past</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target card from a graveyard. If it was a creature card, you gain 3 life. Otherwise, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Flashback 2G (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Unyielding Aswaran</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Knight Scout </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Unyielding Aswaran can’t be blocked by Armies.</text>
+    </card>
+    <card>
+      <name>Benevolent Host</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Nephilim Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Benevolent Host attacks, if you control another Angel or Nephilim, Benevolent
+Host gains flying until end of turn. Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Poison-Sky Acolyte</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lionize 1B (1B, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following ability until end of turn. You may cast this card on a later turn from exile.)
+Deathtouch</text>
+    </card>
+    <card>
+      <name>Bloodcloaked Wrecker</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>5R</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Demon Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lionize 2R (2R, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)
+Trample
+This creature gets +3/+0 as long as it’s attacking.</text>
+    </card>
+    <card>
+      <name>Crush Opposition</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Amass Soldiers 1. When you do, target creature you control fights target creature you don’t control. (To amass Soldiers 1, ut a +1/+1 counter on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)</text>
+    </card>
+    <card>
+      <name>Augur of Pathways</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>W/U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Angel Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance
+When Augur of Pathways enters, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Cunning Plan</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>U/B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +1/+0 until end of turn and can’t be blocked this turn.
+Flashback 1U/B (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Offering to the Div</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1B/R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice a permanent.
+Draw two cards.</text>
+    </card>
+    <card>
+      <name>Bazaar Braggart</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>1R/G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Merchant </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Bazaar Braggart enters, create a tapped Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Erzdew Captain</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1G/W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Azra Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Erzdew Captain enters, amass Soldiers 1. (Put a +1/+1 counter on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)</text>
+    </card>
+    <card>
+      <name>Toil Beyond Death</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>2W/BW/B</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>Rahstadhe Pledge</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>3U/RU/R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Cleric Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Rahstadhe Pledge enters, you may return target instant or sorcery card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Openmaw Demon</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>3B/GB/G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Demon Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever Openmaw Demon or another Azra or Demon enters under your control, you may exile target card from a graveyard.</text>
+    </card>
+    <card>
+      <name>Battlefield Tiger</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1R/WR/W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Cat </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Battlefield Tiger enters, create two 1/1 white Soldier creature tokens.</text>
+    </card>
+    <card>
+      <name>Venerable Skyblade</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>3G/U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Angel Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Venerable Skyblade can’t attack unless defending player controls a creature with flying.
+When Venerable Skyblade enters, you may put a +1/+1 counter on target creature you control.</text>
+    </card>
+    <card>
+      <name>Attendant of Graves</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+{T}: Add one mana of any color.
+Satrapycycling {2} ({2}, Discard this card: Search your library for a Satrapy card, reveal it, and put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Wayfinder&apos;s Bauble</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+1.
+Whenever equipped creature deals damage to a player or noncreature permanent, create a Treasure token.
+Equip {1}</text>
+    </card>
+    <card>
+      <name>Banner of Warfare</name>
+      <set rarity="common">ROS</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Banner of Warfare enters, amass Soldiers 1. (Put a +1/+1 counter on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)
+{1}, {T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Zagos Abomination</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>2RW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Whenever Zagos Abomination attacks, exile another target creature, then if you controlled that creature, return it to the battlefield under your control tapped and attacking. Otherwise, return that card to the battlefield under its owner’s control at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>Guardians of Kallians Tomb</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>1RG</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Create a Treasure token.
+WUBRG: Until end of turn, Guardians of Kallian’s Tomb becomes a 5/5 Ox artifact creature with trample and “Whenever this creature attacks, defending player sacrifices a permanent.”</text>
+    </card>
+    <card>
+      <name>Cosmic Banishment</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost>2WUBRG</manacost>
+        <cmc>7</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return each card with a cycling ability from your graveyard to your hand. You may cast any number of nonland cards with total mana value X or less from your hand without paying their mana costs, where X is the number of Satrapies you control.</text>
+    </card>
+    <card>
+      <name>Hooded Mystic</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Nephilim Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Other Nephilim and Angels you control get +1/+1.</text>
+    </card>
+    <card>
+      <name>Petty Thief</name>
+      <set rarity="uncommon" splitterPath="/Petty Thief.png" >ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Whenever you cast a spell during an opponent’s turn, put a +1/+1 counter
+on Petty Thief.
+Surpass 4U (4U: Transform this. This costs {1} less to activate for each counter on
+it. Activate only as a sorcery.)
+---
+(Back): Master Assassin</text>
+      <related attach="transform">Master Assassin</related>
+    </card>
+    <card>
+      <name>Master Assassin</name>
+      <set rarity="uncommon" splitterPath="/Master Assassin.png" >ROS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Creature - Azra Assassin </type>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Master Assassin can’t be blocked by creatures
+with odd mana costs.
+Whenever you cast a spell during an opponent’s turn, put a +1/+1 counter on Master Assassin. You may have it phase out. (Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)
+---
+(Front): Petty Thief</text>
+    </card>
+    <card>
+      <name>Blackfeather Cleric</name>
+      <set rarity="uncommon" splitterPath="/Blackfeather Cleric.png" >ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Nephilim Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Blackfeather Cleric enters or attacks, exile target card from a graveyard. Put a +1/+1 counter on Blackfeather Cleric if it was a permanent card. Otherwise, you gain 1 life.
+Surpass 5B (5B: Transform this creature. This costs {1} less to activate for each counter on it. Activate only as a sorcery.)
+---
+(Back): Elite of Mahara</text>
+      <related attach="transform">Elite of Mahara</related>
+    </card>
+    <card>
+      <name>Elite of Mahara</name>
+      <set rarity="uncommon" splitterPath="/Elite of Mahara.png" >ROS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Creature - Angel Cleric </type>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Elite of Mahara attacks, exile up to two target cards from graveyards. For each permanent card exiled this way, put a +1/+1 counter on Elite of Mahara. For each nonpermanent card exiled this way, each opponent loses 1 life and you gain 1 life.
+---
+(Front): Blackfeather Cleric</text>
+    </card>
+    <card>
+      <name>Erzdew Enforcer</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Azra Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+Erzdew Enforcer has lifelink as long as you control a white permanent. The same is true for flying and blue, menace and black, and trample and green.</text>
+    </card>
+    <card>
+      <name>Trial of Strength</name>
+      <set rarity="uncommon">ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control deals damage equal to its power to target creature. Excess damage is dealt to that creature’s controller or to a battle that player protects instead.</text>
+    </card>
+    <card>
+      <name>Andazir, First to Aspire</name>
+      <set rarity="mythic">ROS</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>4BR</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Mutant Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(Transcend as a sorcery to gain that type and a +1/+1 counter.)
+Whenever Andazir enters or transcends, each opponent sacrifices a nonland permanent.
+1BR: Azra
+Create four 1/1 black Snake creature tokens with deathtouch.
+2BR: Demon
+You draw three cards and you lose 3 life.
+5BR: Elder
+Each opponent chooses a card type, then sacrifices each permanent of a type that wasn’t chosen this way.</text>
+    </card>
+    <card>
+      <name>Feather of the Simurgh</name>
+      <set rarity="mythic">ROS</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add one mana of any color.
+5WUBRG, {T}, Exile Feather of the Simurgh: You may cast a white enchantment card, a blue instant card, a black planeswalker card, a red sorcery card, and a green creature card you own from outside the game without paying their mana costs.</text>
+    </card>
+    <card>
+      <name>Pariahs Bargain</name>
+      <set rarity="mythic">ROS</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost>WUBRG</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice any number of permanents.
+If five colors were among the sacrificed permanents, each player exiles the top five cards of their library. For each player, you may cast up to two cards they exiled this way without paying their mana costs.</text>
+    </card>
+    <card>
+      <name>Danaj Sightseer</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Angel Scout </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{1}: Danaj Sightseer gains lifelink until end of turn if {W} was spent to activate this ability. The same is true for flying and {U}, menace and {B}, first strike and {R}, and trample and {G}.
+At the beginning of your end step, if you’ve spent WUBRG to cast spells and/or activate abilities this turn, put three +1/+1 counters on Danaj Sightseer.</text>
+    </card>
+    <card>
+      <name>Obstinate Wishgranter</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>WUBR</colors>
+        <manacost>WUBR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Djinn Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, haste
+{X}, Discard a card with mana value X: You may play a card you own from outside the game with mana value X this turn without paying its mana cost. Activate this ability only once each turn.</text>
+    </card>
+    <card>
+      <name>Sahras Harbinger</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>UBRG</colors>
+        <manacost>4UBRG</manacost>
+        <cmc>8</cmc>
+        <type>Creature - Demon Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Sahra’s Harbinger enters, if you cast it, each player exiles all other permanents they own, then exiles that many cards from the top of their library. Each player puts all permanent cards exiled this way onto the battlefield under their control. Then each player may cast any number of nonpermanent cards exiled this way without paying their mana costs.</text>
+    </card>
+    <card>
+      <name>Swooping Manticore</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>WBRG</colors>
+        <manacost>BRGW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Manticore </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, menace
+Whenever Swooping Manticore enters or attacks, you may have each opponent create a Food artifact token named Delicacy with “{2}, {T}, Discard a card, Sacrifice this artifact: You gain 3 life.”
+At the beginning of each opponent’s upkeep, that player loses life equal to the number of tokens they control and you gain that much life.</text>
+    </card>
+    <card>
+      <name>Iridescent Savior</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>WURG</colors>
+        <manacost>1RGWU</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Angel Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever a creature you control attacks, until end of turn that creature gets +2/+0 if it’s red, +0/+2 if it’s green, gains lifelink if it’s white, then flying it if it’s blue.</text>
+    </card>
+    <card>
+      <name>Div of Unsettling Secrets</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>WUB</colors>
+        <manacost>WUB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Div of Unsettling Secrets enters, target opponent reveals their hand. When they do, choose one —
+• Exile a nonland card from that player’s hand until Div of Unsettling Secrets leaves the battlefield.
+• Exile target nonland permanent that player controls until Div of Unsettling Secrets leaves the battlefield.
+• Exile that player’s graveyard.</text>
+    </card>
+    <card>
+      <name>Disappointment</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>WUBG</colors>
+        <manacost>1GWUB</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>*/*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Disappointment’s power and toughness are each equal to the number of differently named lands you control.
+Whenever Disappointment enters or deals damage to a player or noncreature permanent, you may return target permanent card from your graveyard to the battlefield. It’s a land with “{T}: Add one mana of this card’s colors.” (It has no other types or abilities.)</text>
+    </card>
+    <card>
+      <name>The Lost and Seeking</name>
+      <set rarity="mythic" splitterPath="/The Lost and Seeking.png" >ROS</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>R/W</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another legendary creature enters under your control, put a +1/+1 counter on The Lost and Seeking.
+Surpass 4RW (4RW: Transform this creature. This costs {1} less to activate for each counter on it. Activate only as a sorcery.)
+---
+(Back): Ameret, Shining and Proud</text>
+      <related attach="transform">Ameret, Shining and Proud</related>
+    </card>
+    <card>
+      <name>Ameret, Shining and Proud</name>
+      <set rarity="mythic" splitterPath="/Ameret, Shining and Proud.png" >ROS</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Legendary Planeswalker - Ameret </type>
+        <loyalty>1</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As this permanent transforms into Ameret, remove all counters from them, then put that many loyalty counters on them.
+[+1]: Until end of turn, Ameret becomes a X/X Angel creature with flying, indestructible, and haste, where X is the number of counters on them.
+[-2]: Create three 1/1 white and red Cleric creature tokens with lifelink and haste.
+
+---
+(Front): The Lost and Seeking</text>
+    </card>
+    <card>
+      <name>Cyrukans Elite</name>
+      <set rarity="rare">ROS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>5RR</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Angel Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, haste
+Whenever Cyrukan’s Elite attacks, create
+a 4/4 white Angel Soldier creature token with flying. If it’s the first time Cyrukan’s Elite has attacked this turn, untap all creatures you control. After this phase, there is an additional combat phase.</text>
+    </card>
+    <card>
+      <name>Zareen Kahroba, Shah</name>
+      <set rarity="mythic">ROS</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost>WUBRG</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Zareen Kahroba, Shah enters, untap each Satrapy you control.
+For each Satrapy you control, whenever it becomes tapped for the first time on each of your turns, untap it.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Soldier</name>
+      <set>ROS</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Treasure</name>
+      <set>ROS</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Horror</name>
+      <set>ROS</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Soldier Army</name>
+      <set>ROS</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Soldier Army </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Angel Soldier</name>
+      <set>ROS</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Angel Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
