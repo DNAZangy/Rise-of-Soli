@@ -5,7 +5,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Satrapy ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesBurgeoning Satrapy.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Burgeoning Satrapy.png"
 	        }
 	    },
 	    {
@@ -14,7 +14,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Satrapy ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesSoli Fortress.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Soli Fortress.png"
 	        }
 	    },
 	    {
@@ -23,7 +23,7 @@
 	        "mana_cost": "{1}{W}{U}",
 	        "type": "Legendary Creature — Merfolk Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAtieh, Seer of Distant Futures.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Atieh, Seer of Distant Futures.png"
 	        }
 	    },
 	    {
@@ -32,7 +32,7 @@
 	        "mana_cost": "{3}{R}{W}",
 	        "type": "Legendary Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesCyrukan of Heart and Iron.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Cyrukan of Heart and Iron.png"
 	        }
 	    },
 	    {
@@ -41,7 +41,7 @@
 	        "mana_cost": "{U}{R}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesRahstadhe, Brand of Truth.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Rahstadhe, Brand of Truth.png"
 	        }
 	    },
 	    {
@@ -50,7 +50,7 @@
 	        "mana_cost": "{U}{B}",
 	        "type": "Legendary Creature — Human Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesFahrib, the Ever-Scheming.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Fahrib, the Ever-Scheming.png"
 	        }
 	    },
 	    {
@@ -59,7 +59,7 @@
 	        "mana_cost": "{4}{W}{B}",
 	        "type": "Legendary Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesMahara, General of All.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Mahara, General of All.png"
 	        }
 	    },
 	    {
@@ -68,7 +68,7 @@
 	        "mana_cost": "{1}{G}{W}",
 	        "type": "Legendary Creature — Mutant Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAbwad Kahroba, Failed Son.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Abwad Kahroba, Failed Son.png"
 	        }
 	    },
 	    {
@@ -77,7 +77,7 @@
 	        "mana_cost": "{3}{R}{G}",
 	        "type": "Legendary Creature — Ogre Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesSahra, Hadak's Last Warrior.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Sahra, Hadak's Last Warrior.png"
 	        }
 	    },
 	    {
@@ -86,7 +86,7 @@
 	        "mana_cost": "{2}{B}{G}",
 	        "type": "Legendary Creature — Insect ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesTamaak the Arid Swarm.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Tamaak the Arid Swarm.png"
 	        }
 	    },
 	    {
@@ -95,7 +95,7 @@
 	        "mana_cost": "{2}{G}{U}",
 	        "type": "Legendary Creature — Human Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesMartoob of Flowing Life.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Martoob of Flowing Life.png"
 	        }
 	    },
 	    {
@@ -104,7 +104,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Satrapy ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAvaz Bulwark.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Avaz Bulwark.png"
 	        }
 	    },
 	    {
@@ -113,7 +113,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Satrapy ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesDanaj Bulwark.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Danaj Bulwark.png"
 	        }
 	    },
 	    {
@@ -122,7 +122,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Satrapy ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesKaneh Bulwark.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Kaneh Bulwark.png"
 	        }
 	    },
 	    {
@@ -131,7 +131,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Satrapy ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesNizev Bulwark.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Nizev Bulwark.png"
 	        }
 	    },
 	    {
@@ -140,7 +140,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Satrapy ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesSoli Bulwark.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Soli Bulwark.png"
 	        }
 	    },
 	    {
@@ -149,7 +149,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Satrapy ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesNizev Fortress.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Nizev Fortress.png"
 	        }
 	    },
 	    {
@@ -158,7 +158,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Satrapy ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesKaneh Fortress.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Kaneh Fortress.png"
 	        }
 	    },
 	    {
@@ -167,7 +167,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Satrapy ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAvaz Fortress.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Avaz Fortress.png"
 	        }
 	    },
 	    {
@@ -176,7 +176,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Satrapy ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesDanaj Fortress.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Danaj Fortress.png"
 	        }
 	    },
 	    {
@@ -185,7 +185,7 @@
 	        "mana_cost": "{R}{G}{W}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAtieh's Command.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Atieh's Command.png"
 	        }
 	    },
 	    {
@@ -194,7 +194,7 @@
 	        "mana_cost": "{G}{W}{U}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesFahribs Command.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Fahribs Command.png"
 	        }
 	    },
 	    {
@@ -203,7 +203,7 @@
 	        "mana_cost": "{B}{R}{G}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesTamaks Command.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Tamaks Command.png"
 	        }
 	    },
 	    {
@@ -212,7 +212,7 @@
 	        "mana_cost": "{U}{B}{R}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAndazir's Command.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Andazir's Command.png"
 	        }
 	    },
 	    {
@@ -221,7 +221,7 @@
 	        "mana_cost": "{W}{U}{B}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesCyrukans Command.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Cyrukans Command.png"
 	        }
 	    },
 	    {
@@ -230,7 +230,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Battle — Encounter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAccession of Soli.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Accession of Soli.png"
 	        }
 	    },
 	    {
@@ -239,7 +239,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesScornful Arcanist.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Scornful Arcanist.png"
 	        }
 	    },
 	    {
@@ -248,7 +248,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Angel Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesReckoner of Kaneh.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Reckoner of Kaneh.png"
 	        }
 	    },
 	    {
@@ -257,7 +257,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Manticore Demon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesArchfiend of Rage.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Archfiend of Rage.png"
 	        }
 	    },
 	    {
@@ -265,7 +265,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Azra Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesErzdew Signaller.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Erzdew Signaller.png"
 	        },
 	        "printed names": {
 	            "en": "Erzdew Signaller"
@@ -276,7 +276,7 @@
 	                "en": "Dew Harbinger"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesDew Harbinger.png"
+	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Dew Harbinger.png"
 	            },
 	            "type": "Creature — Demon Soldier "
 	        }
@@ -286,7 +286,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Nephilim Merfolk Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesListless Maneli.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Listless Maneli.png"
 	        },
 	        "printed names": {
 	            "en": "Listless Maneli"
@@ -297,7 +297,7 @@
 	                "en": "Focused Savior"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesFocused Savior.png"
+	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Focused Savior.png"
 	            },
 	            "type": "Creature — Angel Merfolk Cleric "
 	        }
@@ -308,7 +308,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Battle — Encounter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAccession of Nizev.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Accession of Nizev.png"
 	        }
 	    },
 	    {
@@ -317,7 +317,7 @@
 	        "mana_cost": "{2}{B}{B}",
 	        "type": "Creature — Demon Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesJahi of Endless Hunger.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Jahi of Endless Hunger.png"
 	        }
 	    },
 	    {
@@ -326,7 +326,7 @@
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Creature — Phoenix ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesHuma of Glory.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Huma of Glory.png"
 	        }
 	    },
 	    {
@@ -335,7 +335,7 @@
 	        "mana_cost": "{3}{G}{G}",
 	        "type": "Battle — Encounter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAccession of Danaj.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Accession of Danaj.png"
 	        }
 	    },
 	    {
@@ -344,7 +344,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Nephilim Ranger ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesSolis Crossbowmaster.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Solis Crossbowmaster.png"
 	        }
 	    },
 	    {
@@ -352,7 +352,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Nephilim Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAcolyte of Water.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Acolyte of Water.png"
 	        },
 	        "printed names": {
 	            "en": "Acolyte of Water"
@@ -363,7 +363,7 @@
 	                "en": "Acolyte of Life"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAcolyte of Life.png"
+	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Acolyte of Life.png"
 	            },
 	            "type": "Creature — Angel Cleric "
 	        }
@@ -373,7 +373,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Human Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesListless Vagabond.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Listless Vagabond.png"
 	        },
 	        "printed names": {
 	            "en": "Listless Vagabond"
@@ -384,7 +384,7 @@
 	                "en": "Fahrib's Lieutenant"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesFahrib's Lieutenant.png"
+	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Fahrib's Lieutenant.png"
 	            },
 	            "type": "Creature — Azra Assassin "
 	        }
@@ -395,7 +395,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Nephilim Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesInspiring Tactician.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Inspiring Tactician.png"
 	        }
 	    },
 	    {
@@ -404,7 +404,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesChained to the Roc.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Chained to the Roc.png"
 	        }
 	    },
 	    {
@@ -413,7 +413,7 @@
 	        "mana_cost": "{5}{U}{U}",
 	        "type": "Creature — Angel Dragon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesEmpyrean Scholar.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Empyrean Scholar.png"
 	        }
 	    },
 	    {
@@ -422,7 +422,7 @@
 	        "mana_cost": "{X}{B}",
 	        "type": "Battle — Encounter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAccession of Kaneh.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Accession of Kaneh.png"
 	        }
 	    },
 	    {
@@ -430,7 +430,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Azra Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesSlinking Raider.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Slinking Raider.png"
 	        },
 	        "printed names": {
 	            "en": "Slinking Raider"
@@ -441,7 +441,7 @@
 	                "en": "Forthright Wrecker"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesForthright Wrecker.png"
+	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Forthright Wrecker.png"
 	            },
 	            "type": "Creature — Demon Warrior "
 	        }
@@ -452,7 +452,7 @@
 	        "mana_cost": "{X}{G}",
 	        "type": "Creature — Snake Hydra ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesSpawn of Andazir.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Spawn of Andazir.png"
 	        }
 	    },
 	    {
@@ -461,7 +461,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesConsult the Lineage.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Consult the Lineage.png"
 	        }
 	    },
 	    {
@@ -470,7 +470,7 @@
 	        "mana_cost": "{2}{U}{B}",
 	        "type": "Creature — Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesThat From Beyond the Zagos.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/That From Beyond the Zagos.png"
 	        }
 	    },
 	    {
@@ -479,7 +479,7 @@
 	        "mana_cost": "{1}{B}{R}{G}",
 	        "type": "Creature — Manticore Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesPredatory Tombstalker.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Predatory Tombstalker.png"
 	        }
 	    },
 	    {
@@ -488,7 +488,7 @@
 	        "mana_cost": "{3}{R}{G}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesGuardian of Untold Riches.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Guardian of Untold Riches.png"
 	        }
 	    },
 	    {
@@ -497,7 +497,7 @@
 	        "mana_cost": "{2}{G}{W}",
 	        "type": "Battle — Encounter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesA Matricide Most Foul.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/A Matricide Most Foul.png"
 	        }
 	    },
 	    {
@@ -506,7 +506,7 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesRhythm of Soli.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Rhythm of Soli.png"
 	        }
 	    },
 	    {
@@ -515,7 +515,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesIngratiate.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Ingratiate.png"
 	        }
 	    },
 	    {
@@ -524,7 +524,7 @@
 	        "mana_cost": "{B}{G}",
 	        "type": "Creature — Azra Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAzra Warshaper.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Azra Warshaper.png"
 	        }
 	    },
 	    {
@@ -533,7 +533,7 @@
 	        "mana_cost": "{2}{R}{W}",
 	        "type": "Battle — Encounter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesFigments of the Muktann.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Figments of the Muktann.png"
 	        }
 	    },
 	    {
@@ -542,7 +542,7 @@
 	        "mana_cost": "{6}{G}{G}",
 	        "type": "Creature — Demon Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesDreaded of Sahra.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Dreaded of Sahra.png"
 	        }
 	    },
 	    {
@@ -550,7 +550,7 @@
 	        "mana_cost": "{W}{U}",
 	        "type": "Creature — Nephilim Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAtiehs Disciple.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Atiehs Disciple.png"
 	        },
 	        "printed names": {
 	            "en": "Atiehs Disciple"
@@ -561,7 +561,7 @@
 	                "en": "Atieh's Favored"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAtieh's Favored.png"
+	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Atieh's Favored.png"
 	            },
 	            "type": "Creature — Angel Cleric "
 	        }
@@ -572,7 +572,7 @@
 	        "mana_cost": "{X}{U}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesPeer into Eternity.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Peer into Eternity.png"
 	        }
 	    },
 	    {
@@ -581,7 +581,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesTriumphant Greed.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Triumphant Greed.png"
 	        }
 	    },
 	    {
@@ -590,7 +590,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesRhythm of Avaz.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Rhythm of Avaz.png"
 	        }
 	    },
 	    {
@@ -599,7 +599,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesRhythm of Danaj.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Rhythm of Danaj.png"
 	        }
 	    },
 	    {
@@ -608,7 +608,7 @@
 	        "mana_cost": "{2}{W}{B}",
 	        "type": "Creature — Zombie Wizard Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesRevitalized Vizier.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Revitalized Vizier.png"
 	        }
 	    },
 	    {
@@ -617,7 +617,7 @@
 	        "mana_cost": "{2}{U}{R}",
 	        "type": "Legendary Creature — Human Merfolk Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAbbas and Laila.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Abbas and Laila.png"
 	        }
 	    },
 	    {
@@ -626,7 +626,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Legendary Creature — Zombie Soldier Army ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesThe Horde That Never Ends.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/The Horde That Never Ends.png"
 	        }
 	    },
 	    {
@@ -635,7 +635,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesLast Priest of Hadak.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Last Priest of Hadak.png"
 	        }
 	    },
 	    {
@@ -644,7 +644,7 @@
 	        "mana_cost": "{G}{U}",
 	        "type": "Legendary Creature — Human Merchant ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesNozar, Dunesea Merchant.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Nozar, Dunesea Merchant.png"
 	        }
 	    },
 	    {
@@ -653,7 +653,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesRally the Armies.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Rally the Armies.png"
 	        }
 	    },
 	    {
@@ -662,7 +662,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesRhythm of Kaneh.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Rhythm of Kaneh.png"
 	        }
 	    },
 	    {
@@ -671,7 +671,7 @@
 	        "mana_cost": "{3}{W}{W}",
 	        "type": "Creature — Angel Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesSavior Tactician.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Savior Tactician.png"
 	        }
 	    },
 	    {
@@ -680,7 +680,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Nephilim Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesMartoob Lifeshaper.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Martoob Lifeshaper.png"
 	        }
 	    },
 	    {
@@ -689,7 +689,7 @@
 	        "mana_cost": "{3}{B}{G}{U}",
 	        "type": "Legendary Creature — Sphinx Noble ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesDali, the Eyes of Danaj.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Dali, the Eyes of Danaj.png"
 	        }
 	    },
 	    {
@@ -698,7 +698,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesDesolate Advance.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Desolate Advance.png"
 	        }
 	    },
 	    {
@@ -707,7 +707,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesSmiting Blow.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Smiting Blow.png"
 	        }
 	    },
 	    {
@@ -716,7 +716,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesStreetwise Arcanist.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Streetwise Arcanist.png"
 	        }
 	    },
 	    {
@@ -725,7 +725,7 @@
 	        "mana_cost": "{5}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesVariety of Goods.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Variety of Goods.png"
 	        }
 	    },
 	    {
@@ -734,7 +734,7 @@
 	        "mana_cost": "{R}{G}{W}",
 	        "type": "Legendary Creature — Human Noble ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesShideh, Avazs Conqueror.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Shideh, Avazs Conqueror.png"
 	        }
 	    },
 	    {
@@ -743,7 +743,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesIn Blood, Vengeance.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/In Blood, Vengeance.png"
 	        }
 	    },
 	    {
@@ -752,7 +752,7 @@
 	        "mana_cost": "{2}{G}{U}{R}",
 	        "type": "Legendary Creature — Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesIneptitude.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Ineptitude.png"
 	        }
 	    },
 	    {
@@ -761,7 +761,7 @@
 	        "mana_cost": "{G}{W}{U}",
 	        "type": "Legendary Creature — Human Noble ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesParastu, Soli's Overseer.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Parastu, Soli's Overseer.png"
 	        }
 	    },
 	    {
@@ -770,7 +770,7 @@
 	        "mana_cost": "{2}{W}{B}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesThe Brink of War.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/The Brink of War.png"
 	        }
 	    },
 	    {
@@ -779,7 +779,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Demon Knight ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesHarsh Spahbed.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Harsh Spahbed.png"
 	        }
 	    },
 	    {
@@ -788,7 +788,7 @@
 	        "mana_cost": "{3}{R}{W}{B}",
 	        "type": "Legendary Creature — Human Noble ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesZhubin, Spear of Kaneh.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Zhubin, Spear of Kaneh.png"
 	        }
 	    },
 	    {
@@ -796,7 +796,7 @@
 	        "mana_cost": "{2}{B}{R}",
 	        "type": "Creature — Manticore ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesBloodthirsty Manticore.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Bloodthirsty Manticore.png"
 	        },
 	        "printed names": {
 	            "en": "Bloodthirsty Manticore"
@@ -807,7 +807,7 @@
 	                "en": "Bloodclaw Demon"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesBloodclaw Demon.png"
+	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Bloodclaw Demon.png"
 	            },
 	            "type": "Creature — Demon Manticore "
 	        }
@@ -818,7 +818,7 @@
 	        "mana_cost": "{3}{U}{R}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesFrom the Skies, Peace.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/From the Skies, Peace.png"
 	        }
 	    },
 	    {
@@ -827,7 +827,7 @@
 	        "mana_cost": "{4}{U}{B}{R}",
 	        "type": "Legendary Creature — Dragon Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesSadegh, Tyrant of Nizev.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Sadegh, Tyrant of Nizev.png"
 	        }
 	    },
 	    {
@@ -836,7 +836,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesWretched Skulker.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Wretched Skulker.png"
 	        }
 	    },
 	    {
@@ -845,7 +845,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesRhythm of Nizev.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Rhythm of Nizev.png"
 	        }
 	    },
 	    {
@@ -854,7 +854,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesBackalley Connections.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Backalley Connections.png"
 	        }
 	    },
 	    {
@@ -863,7 +863,7 @@
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Battle — Encounter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAccession of Avaz.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Accession of Avaz.png"
 	        }
 	    },
 	    {
@@ -872,7 +872,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Snake Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesShamaran of the Empty Sea.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Shamaran of the Empty Sea.png"
 	        }
 	    },
 	    {
@@ -880,7 +880,7 @@
 	        "mana_cost": "{1}{B/G}{B/G}",
 	        "type": "Legendary Creature — Hag Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesHayat, Hungering Bakhtak.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Hayat, Hungering Bakhtak.png"
 	        },
 	        "printed names": {
 	            "en": "Hayat, Hungering Bakhtak"
@@ -891,7 +891,7 @@
 	                "en": "The All-Consuming Swarm"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesThe All-Consuming Swarm.png"
+	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/The All-Consuming Swarm.png"
 	            },
 	            "type": "Legendary Planeswalker — Hayat "
 	        }
@@ -902,7 +902,7 @@
 	        "mana_cost": "{2}{B}{B}",
 	        "type": "Legendary Creature — Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAcrimony.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Acrimony.png"
 	        }
 	    },
 	    {
@@ -911,7 +911,7 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesHollow Simulacrum.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Hollow Simulacrum.png"
 	        }
 	    },
 	    {
@@ -920,7 +920,7 @@
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Creature — Manticore ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesJals Spawn.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Jals Spawn.png"
 	        }
 	    },
 	    {
@@ -929,7 +929,7 @@
 	        "mana_cost": "{4}{G}{G}",
 	        "type": "Creature — Manticore ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesColossus of Alkabah.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Colossus of Alkabah.png"
 	        }
 	    },
 	    {
@@ -938,7 +938,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Battle — Encounter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesFounding of Danaj.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Founding of Danaj.png"
 	        }
 	    },
 	    {
@@ -947,7 +947,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Battle — Encounter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesSettling of Nizev.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Settling of Nizev.png"
 	        }
 	    },
 	    {
@@ -956,7 +956,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Battle — Encounter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesSettling of Avaz.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Settling of Avaz.png"
 	        }
 	    },
 	    {
@@ -965,7 +965,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Battle — Encounter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesFounding of Soli.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Founding of Soli.png"
 	        }
 	    },
 	    {
@@ -974,7 +974,7 @@
 	        "mana_cost": "{4}{W}",
 	        "type": "Battle — Encounter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesConquest of Avaz.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Conquest of Avaz.png"
 	        }
 	    },
 	    {
@@ -983,7 +983,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Battle — Encounter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesConquest of Nizev.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Conquest of Nizev.png"
 	        }
 	    },
 	    {
@@ -992,7 +992,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Battle — Encounter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesConquest of Danaj.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Conquest of Danaj.png"
 	        }
 	    },
 	    {
@@ -1001,7 +1001,7 @@
 	        "mana_cost": "{1}{G}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesCoagulating Strength.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Coagulating Strength.png"
 	        }
 	    },
 	    {
@@ -1010,7 +1010,7 @@
 	        "mana_cost": "{W}{U}",
 	        "type": "Creature — Nephilim Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesHerald of Atieh.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Herald of Atieh.png"
 	        }
 	    },
 	    {
@@ -1019,7 +1019,7 @@
 	        "mana_cost": "{1}{U}{B}",
 	        "type": "Creature — Hag Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesRuthless Bakhtak.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Ruthless Bakhtak.png"
 	        }
 	    },
 	    {
@@ -1028,7 +1028,7 @@
 	        "mana_cost": "{3}{B}{R}",
 	        "type": "Creature — Djinn Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesDjinn of the Waning Candle.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Djinn of the Waning Candle.png"
 	        }
 	    },
 	    {
@@ -1037,7 +1037,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Battle — Encounter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesFounding of Avaz.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Founding of Avaz.png"
 	        }
 	    },
 	    {
@@ -1046,7 +1046,7 @@
 	        "mana_cost": "{2}{G}{W}",
 	        "type": "Creature — Human Knight ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesValiant Cataphract.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Valiant Cataphract.png"
 	        }
 	    },
 	    {
@@ -1055,7 +1055,7 @@
 	        "mana_cost": "{3}{W}{W}{B}{B}",
 	        "type": "Creature — Angel ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAngel of Despair.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Angel of Despair.png"
 	        }
 	    },
 	    {
@@ -1064,7 +1064,7 @@
 	        "mana_cost": "{1}{U}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesSelection at Danaj.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Selection at Danaj.png"
 	        }
 	    },
 	    {
@@ -1073,7 +1073,7 @@
 	        "mana_cost": "{B}{G}",
 	        "type": "Creature — Azra Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesHerald of Tamaak.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Herald of Tamaak.png"
 	        }
 	    },
 	    {
@@ -1082,7 +1082,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Battle — Encounter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesConquest of Kaneh.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Conquest of Kaneh.png"
 	        }
 	    },
 	    {
@@ -1091,7 +1091,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Battle — Encounter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesSettling of Danaj.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Settling of Danaj.png"
 	        }
 	    },
 	    {
@@ -1100,7 +1100,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesFulfill the Contract.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Fulfill the Contract.png"
 	        }
 	    },
 	    {
@@ -1109,7 +1109,7 @@
 	        "mana_cost": "{2}{W}{U}{B}",
 	        "type": "Creature — Angel Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAcolyte of the Far Winds.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Acolyte of the Far Winds.png"
 	        }
 	    },
 	    {
@@ -1118,7 +1118,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesFirebolt.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Firebolt.png"
 	        }
 	    },
 	    {
@@ -1127,7 +1127,7 @@
 	        "mana_cost": "{G}{W}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAdrift into Endless Stories.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Adrift into Endless Stories.png"
 	        }
 	    },
 	    {
@@ -1136,7 +1136,7 @@
 	        "mana_cost": "{1}{W}{B}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesMehr's Endless Horde.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Mehr's Endless Horde.png"
 	        }
 	    },
 	    {
@@ -1145,7 +1145,7 @@
 	        "mana_cost": "{2}{B}{G}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesDescent of the Div.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Descent of the Div.png"
 	        }
 	    },
 	    {
@@ -1154,7 +1154,7 @@
 	        "mana_cost": "{2}{R}{W}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesOn Andazirs Whims.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/On Andazirs Whims.png"
 	        }
 	    },
 	    {
@@ -1163,7 +1163,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAccept into the Fold.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Accept into the Fold.png"
 	        }
 	    },
 	    {
@@ -1172,7 +1172,7 @@
 	        "mana_cost": "{3}{U}{R}{W}",
 	        "type": "Creature — Djinn Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesDjinn of Unfolding Truths.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Djinn of Unfolding Truths.png"
 	        }
 	    },
 	    {
@@ -1181,7 +1181,7 @@
 	        "mana_cost": "{U}{B}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesEcho of the Simurgh.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Echo of the Simurgh.png"
 	        }
 	    },
 	    {
@@ -1190,7 +1190,7 @@
 	        "mana_cost": "{R}{G}{W}",
 	        "type": "Creature — Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesDunesea Dreadstalker.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Dunesea Dreadstalker.png"
 	        }
 	    },
 	    {
@@ -1199,7 +1199,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesPrepare for War.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Prepare for War.png"
 	        }
 	    },
 	    {
@@ -1208,7 +1208,7 @@
 	        "mana_cost": "{2}{B}{R}{G}",
 	        "type": "Creature — Azra Knight ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAswaran Conquerer.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Aswaran Conquerer.png"
 	        }
 	    },
 	    {
@@ -1217,7 +1217,7 @@
 	        "mana_cost": "{4}{G}{G}",
 	        "type": "Creature — Elephant ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesShah's Caravan.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Shah's Caravan.png"
 	        }
 	    },
 	    {
@@ -1226,7 +1226,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesGather the Forces.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Gather the Forces.png"
 	        }
 	    },
 	    {
@@ -1235,7 +1235,7 @@
 	        "mana_cost": "{X}{W}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesBlessing from Wings on High.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Blessing from Wings on High.png"
 	        }
 	    },
 	    {
@@ -1244,7 +1244,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesThe Pillaging of Kaneh.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/The Pillaging of Kaneh.png"
 	        }
 	    },
 	    {
@@ -1253,7 +1253,7 @@
 	        "mana_cost": "{1}{G}{U}{R}",
 	        "type": "Creature — Dragon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesSpawn of Hadak.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Spawn of Hadak.png"
 	        }
 	    },
 	    {
@@ -1262,7 +1262,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAndazirs Disdain.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Andazirs Disdain.png"
 	        }
 	    },
 	    {
@@ -1271,7 +1271,7 @@
 	        "mana_cost": "{3}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesConsult the Cosmos.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Consult the Cosmos.png"
 	        }
 	    },
 	    {
@@ -1280,7 +1280,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Nephilim Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAdvocate of Ideals.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Advocate of Ideals.png"
 	        }
 	    },
 	    {
@@ -1289,7 +1289,7 @@
 	        "mana_cost": "{3}{U}{U}",
 	        "type": "Creature — Angel Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAngel of Wisdom.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Angel of Wisdom.png"
 	        }
 	    },
 	    {
@@ -1298,7 +1298,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesSmiting Helix.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Smiting Helix.png"
 	        }
 	    },
 	    {
@@ -1307,7 +1307,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Nephilim Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAmbitious Truthseeker.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Ambitious Truthseeker.png"
 	        }
 	    },
 	    {
@@ -1316,7 +1316,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Battle — Encounter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesConquest of Soli.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Conquest of Soli.png"
 	        }
 	    },
 	    {
@@ -1324,7 +1324,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Nephilim Archer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesGarrison Warden.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Garrison Warden.png"
 	        },
 	        "printed names": {
 	            "en": "Garrison Warden"
@@ -1335,7 +1335,7 @@
 	                "en": "Cyrukan Weaponmaster"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesCyrukan Weaponmaster.png"
+	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Cyrukan Weaponmaster.png"
 	            },
 	            "type": "Creature — Angel Archer "
 	        }
@@ -1346,7 +1346,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesScholar's Delight.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Scholar's Delight.png"
 	        }
 	    },
 	    {
@@ -1355,7 +1355,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Battle — Encounter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesFounding of Kaneh.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Founding of Kaneh.png"
 	        }
 	    },
 	    {
@@ -1364,7 +1364,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Azra Noble ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAdvocate of Foibles.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Advocate of Foibles.png"
 	        }
 	    },
 	    {
@@ -1373,7 +1373,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Human Merchant ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesDunesea Merchant.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Dunesea Merchant.png"
 	        }
 	    },
 	    {
@@ -1382,7 +1382,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesFury of Cyrukan.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Fury of Cyrukan.png"
 	        }
 	    },
 	    {
@@ -1391,7 +1391,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Nephilim Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesMartoob's Forerunner.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Martoob's Forerunner.png"
 	        }
 	    },
 	    {
@@ -1400,7 +1400,7 @@
 	        "mana_cost": "{4}{B}{B}",
 	        "type": "Creature — Azra Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesChaosbender.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Chaosbender.png"
 	        }
 	    },
 	    {
@@ -1409,7 +1409,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesRefracting Image.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Refracting Image.png"
 	        }
 	    },
 	    {
@@ -1418,7 +1418,7 @@
 	        "mana_cost": "{2}{G}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesFracturing Swipe.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Fracturing Swipe.png"
 	        }
 	    },
 	    {
@@ -1427,7 +1427,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Battle — Encounter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesSettling of Kaneh.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Settling of Kaneh.png"
 	        }
 	    },
 	    {
@@ -1436,7 +1436,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Nephilim Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesSoli Wisdomancer.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Soli Wisdomancer.png"
 	        }
 	    },
 	    {
@@ -1445,7 +1445,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesKingpin of Nizev.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Kingpin of Nizev.png"
 	        }
 	    },
 	    {
@@ -1453,7 +1453,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesRahstadhes Swiftspear.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Rahstadhes Swiftspear.png"
 	        },
 	        "printed names": {
 	            "en": "Rahstadhes Swiftspear"
@@ -1464,7 +1464,7 @@
 	                "en": "Rahstadhe's Firefist"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesRahstadhe's Firefist.png"
+	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Rahstadhe's Firefist.png"
 	            },
 	            "type": "Creature — Nephilim Warrior "
 	        }
@@ -1474,7 +1474,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Human Ranger ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesQuickstep Ranger.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Quickstep Ranger.png"
 	        },
 	        "printed names": {
 	            "en": "Quickstep Ranger"
@@ -1485,7 +1485,7 @@
 	                "en": "Lifestep Ranger"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesLifestep Ranger.png"
+	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Lifestep Ranger.png"
 	            },
 	            "type": "Creature — Nephilim Ranger "
 	        }
@@ -1496,7 +1496,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesStandoff.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Standoff.png"
 	        }
 	    },
 	    {
@@ -1505,7 +1505,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Creature — Merfolk Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesTidebender.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Tidebender.png"
 	        }
 	    },
 	    {
@@ -1514,7 +1514,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Zombie Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesDutybound Ghul.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Dutybound Ghul.png"
 	        }
 	    },
 	    {
@@ -1523,7 +1523,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Battle — Encounter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesFounding of Nizev.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Founding of Nizev.png"
 	        }
 	    },
 	    {
@@ -1532,7 +1532,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Azra Druid Ranger ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesDunesea Stalker.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Dunesea Stalker.png"
 	        }
 	    },
 	    {
@@ -1541,7 +1541,7 @@
 	        "mana_cost": "{4}{W}{W}",
 	        "type": "Creature — Bird ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesZagos Roc.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Zagos Roc.png"
 	        }
 	    },
 	    {
@@ -1550,7 +1550,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesWade Through Treasures.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Wade Through Treasures.png"
 	        }
 	    },
 	    {
@@ -1559,7 +1559,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Creature — Azra Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesOracle of the Unseen.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Oracle of the Unseen.png"
 	        }
 	    },
 	    {
@@ -1568,7 +1568,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Azra Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesPaygan Firebinder.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Paygan Firebinder.png"
 	        }
 	    },
 	    {
@@ -1577,7 +1577,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Human Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesHeartweaver.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Heartweaver.png"
 	        }
 	    },
 	    {
@@ -1586,7 +1586,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesConfine to the Oasis.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Confine to the Oasis.png"
 	        }
 	    },
 	    {
@@ -1595,7 +1595,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Battle — Encounter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesSettling of Soli.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Settling of Soli.png"
 	        }
 	    },
 	    {
@@ -1604,7 +1604,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesTraverse the Endless Well.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Traverse the Endless Well.png"
 	        }
 	    },
 	    {
@@ -1613,7 +1613,7 @@
 	        "mana_cost": "{5}{R}{R}",
 	        "type": "Creature — Djinn Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesDjinn of Incidental Backlashes.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Djinn of Incidental Backlashes.png"
 	        }
 	    },
 	    {
@@ -1622,7 +1622,7 @@
 	        "mana_cost": "{6}{G}",
 	        "type": "Creature — Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesQuake Devourer.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Quake Devourer.png"
 	        }
 	    },
 	    {
@@ -1631,7 +1631,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAssault on Soli.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Assault on Soli.png"
 	        }
 	    },
 	    {
@@ -1640,7 +1640,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesTruthseeker Prodigy.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Truthseeker Prodigy.png"
 	        }
 	    },
 	    {
@@ -1649,7 +1649,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Azra Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesEsoteric Visionary.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Esoteric Visionary.png"
 	        }
 	    },
 	    {
@@ -1657,7 +1657,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Azra Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesShipment Overseer.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Shipment Overseer.png"
 	        },
 	        "printed names": {
 	            "en": "Shipment Overseer"
@@ -1668,7 +1668,7 @@
 	                "en": "Overseer of Armies"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesOverseer of Armies.png"
+	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Overseer of Armies.png"
 	            },
 	            "type": "Creature — Demon Advisor "
 	        }
@@ -1679,7 +1679,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesSettling Alkabah.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Settling Alkabah.png"
 	        }
 	    },
 	    {
@@ -1688,7 +1688,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesCast Judgment.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Cast Judgment.png"
 	        }
 	    },
 	    {
@@ -1696,7 +1696,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesRegretful Chronicler.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Regretful Chronicler.png"
 	        },
 	        "printed names": {
 	            "en": "Regretful Chronicler"
@@ -1707,7 +1707,7 @@
 	                "en": "Optimistic Chronicler"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesOptimistic Chronicler.png"
+	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Optimistic Chronicler.png"
 	            },
 	            "type": "Creature — Nephilim Cleric "
 	        }
@@ -1717,7 +1717,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Azra Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesRuthless Advisor.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Ruthless Advisor.png"
 	        },
 	        "printed names": {
 	            "en": "Ruthless Advisor"
@@ -1728,7 +1728,7 @@
 	                "en": "Ruthless Taromad"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesRuthless Taromad.png"
+	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Ruthless Taromad.png"
 	            },
 	            "type": "Creature — Demon Advisor "
 	        }
@@ -1739,7 +1739,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Angel Soldier Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesEyes of Cyrukan.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Eyes of Cyrukan.png"
 	        }
 	    },
 	    {
@@ -1747,7 +1747,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Human Archer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAvaz Sentry.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Avaz Sentry.png"
 	        },
 	        "printed names": {
 	            "en": "Avaz Sentry"
@@ -1758,7 +1758,7 @@
 	                "en": "Sentinel of Consumption"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesSentinel of Consumption.png"
+	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Sentinel of Consumption.png"
 	            },
 	            "type": "Creature — Azra Archer "
 	        }
@@ -1769,7 +1769,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesBlessing of Respite.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Blessing of Respite.png"
 	        }
 	    },
 	    {
@@ -1777,7 +1777,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAdrift Surveyor.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Adrift Surveyor.png"
 	        },
 	        "printed names": {
 	            "en": "Adrift Surveyor"
@@ -1788,7 +1788,7 @@
 	                "en": "Annointed Truthseeker"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAnnointed Truthseeker.png"
+	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Annointed Truthseeker.png"
 	            },
 	            "type": "Creature — Nephilim Soldier "
 	        }
@@ -1798,7 +1798,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Azra Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesEverWandering Vagabond.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/EverWandering Vagabond.png"
 	        },
 	        "printed names": {
 	            "en": "EverWandering Vagabond"
@@ -1809,7 +1809,7 @@
 	                "en": "Ever-Hungry Tanbaly"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesEver-Hungry Tanbaly.png"
+	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Ever-Hungry Tanbaly.png"
 	            },
 	            "type": "Creature — Demon Rogue "
 	        }
@@ -1820,7 +1820,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesEvening Serenade.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Evening Serenade.png"
 	        }
 	    },
 	    {
@@ -1829,7 +1829,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Human Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesCultivator of Crops.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Cultivator of Crops.png"
 	        }
 	    },
 	    {
@@ -1838,7 +1838,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Angel Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesSentinel of Avaz.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Sentinel of Avaz.png"
 	        }
 	    },
 	    {
@@ -1847,7 +1847,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Angel Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesSkyborne Strategist.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Skyborne Strategist.png"
 	        }
 	    },
 	    {
@@ -1856,7 +1856,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Demon Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesDemon of Endless Hunger.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Demon of Endless Hunger.png"
 	        }
 	    },
 	    {
@@ -1865,7 +1865,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesVicious Shamshir.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Vicious Shamshir.png"
 	        }
 	    },
 	    {
@@ -1874,7 +1874,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesErode.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Erode.png"
 	        }
 	    },
 	    {
@@ -1883,7 +1883,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Angel Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesInspiring Overseer.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Inspiring Overseer.png"
 	        }
 	    },
 	    {
@@ -1892,7 +1892,7 @@
 	        "mana_cost": "{4}{U}{U}",
 	        "type": "Creature — Djinn Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesImplacable Djinn.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Implacable Djinn.png"
 	        }
 	    },
 	    {
@@ -1901,7 +1901,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Zombie Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesSelfserving Ghul.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Selfserving Ghul.png"
 	        }
 	    },
 	    {
@@ -1910,7 +1910,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesFigments of Warriors Lost.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Figments of Warriors Lost.png"
 	        }
 	    },
 	    {
@@ -1919,7 +1919,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesExpose Wickedness.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Expose Wickedness.png"
 	        }
 	    },
 	    {
@@ -1928,7 +1928,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesVanguard of Glory.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Vanguard of Glory.png"
 	        }
 	    },
 	    {
@@ -1937,7 +1937,7 @@
 	        "mana_cost": "{4}{U}",
 	        "type": "Creature — Demon Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesTiller of the Paltry Lie.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Tiller of the Paltry Lie.png"
 	        }
 	    },
 	    {
@@ -1946,7 +1946,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesKaneh Siege.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Kaneh Siege.png"
 	        }
 	    },
 	    {
@@ -1955,7 +1955,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesRefitting for Battle.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Refitting for Battle.png"
 	        }
 	    },
 	    {
@@ -1964,7 +1964,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Nephilim Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesMartoob Hawker.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Martoob Hawker.png"
 	        }
 	    },
 	    {
@@ -1972,7 +1972,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Nephilim Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesZealot of Mahara.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Zealot of Mahara.png"
 	        },
 	        "printed names": {
 	            "en": "Zealot of Mahara"
@@ -1983,7 +1983,7 @@
 	                "en": "Judge of Mahara"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesJudge of Mahara.png"
+	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Judge of Mahara.png"
 	            },
 	            "type": "Creature — Angel Cleric "
 	        }
@@ -1994,7 +1994,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesReject Wickedness.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Reject Wickedness.png"
 	        }
 	    },
 	    {
@@ -2003,7 +2003,7 @@
 	        "mana_cost": "{5}{B}",
 	        "type": "Creature — Demon Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesFiendish Bruiser.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Fiendish Bruiser.png"
 	        }
 	    },
 	    {
@@ -2012,7 +2012,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Angel Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesTruthbearing Peri.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Truthbearing Peri.png"
 	        }
 	    },
 	    {
@@ -2021,7 +2021,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesCommanders Guidance.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Commanders Guidance.png"
 	        }
 	    },
 	    {
@@ -2030,7 +2030,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesBanishment of Aspirations.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Banishment of Aspirations.png"
 	        }
 	    },
 	    {
@@ -2039,7 +2039,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesScope the Cosmos.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Scope the Cosmos.png"
 	        }
 	    },
 	    {
@@ -2048,7 +2048,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesPrepare for Assault.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Prepare for Assault.png"
 	        }
 	    },
 	    {
@@ -2056,7 +2056,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesHesitant Vanguard.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Hesitant Vanguard.png"
 	        },
 	        "printed names": {
 	            "en": "Hesitant Vanguard"
@@ -2067,7 +2067,7 @@
 	                "en": "Luminous Vanguard"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesLuminous Vanguard.png"
+	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Luminous Vanguard.png"
 	            },
 	            "type": "Creature — Nephilim Soldier "
 	        }
@@ -2078,7 +2078,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Creature — Demon Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesFell LanternBearer.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Fell LanternBearer.png"
 	        }
 	    },
 	    {
@@ -2087,7 +2087,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesKeen Blademaster.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Keen Blademaster.png"
 	        }
 	    },
 	    {
@@ -2096,7 +2096,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesWave Shield.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Wave Shield.png"
 	        }
 	    },
 	    {
@@ -2105,7 +2105,7 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Creature — Angel Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesEnigmatic Herald.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Enigmatic Herald.png"
 	        }
 	    },
 	    {
@@ -2114,7 +2114,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Nephilim Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesFrantic Efreetspeaker.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Frantic Efreetspeaker.png"
 	        }
 	    },
 	    {
@@ -2123,7 +2123,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesShah's Proclamation.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Shah's Proclamation.png"
 	        }
 	    },
 	    {
@@ -2131,7 +2131,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Knight ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesLowly Cataphract.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Lowly Cataphract.png"
 	        },
 	        "printed names": {
 	            "en": "Lowly Cataphract"
@@ -2142,7 +2142,7 @@
 	                "en": "Keeper of the Bloodline"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesKeeper of the Bloodline.png"
+	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Keeper of the Bloodline.png"
 	            },
 	            "type": "Creature — Azra Knight "
 	        }
@@ -2153,7 +2153,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesWisdom of the Dunesea.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Wisdom of the Dunesea.png"
 	        }
 	    },
 	    {
@@ -2162,7 +2162,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAstral Assassination.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Astral Assassination.png"
 	        }
 	    },
 	    {
@@ -2171,7 +2171,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesRegroup and Stockpile.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Regroup and Stockpile.png"
 	        }
 	    },
 	    {
@@ -2180,7 +2180,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesDay at the Market.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Day at the Market.png"
 	        }
 	    },
 	    {
@@ -2189,7 +2189,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesPrepare for Rest.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Prepare for Rest.png"
 	        }
 	    },
 	    {
@@ -2198,7 +2198,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesTempt with Gifts.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Tempt with Gifts.png"
 	        }
 	    },
 	    {
@@ -2207,7 +2207,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesRefine to Nothing.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Refine to Nothing.png"
 	        }
 	    },
 	    {
@@ -2216,7 +2216,7 @@
 	        "mana_cost": "{4}{R}",
 	        "type": "Creature — Demon Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAndazir Veteran.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Andazir Veteran.png"
 	        }
 	    },
 	    {
@@ -2224,7 +2224,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesNimble Pathfinder.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Nimble Pathfinder.png"
 	        },
 	        "printed names": {
 	            "en": "Nimble Pathfinder"
@@ -2235,7 +2235,7 @@
 	                "en": "Dauntless Pathmaker"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesDauntless Pathmaker.png"
+	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Dauntless Pathmaker.png"
 	            },
 	            "type": "Creature — Demon Scout "
 	        }
@@ -2246,7 +2246,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Nephilim Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesMahara Enforcer.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Mahara Enforcer.png"
 	        }
 	    },
 	    {
@@ -2255,7 +2255,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesSinking Pessimism.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Sinking Pessimism.png"
 	        }
 	    },
 	    {
@@ -2264,7 +2264,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesCastaway's Remorse.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Castaway's Remorse.png"
 	        }
 	    },
 	    {
@@ -2273,7 +2273,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesIncendiary Swipe.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Incendiary Swipe.png"
 	        }
 	    },
 	    {
@@ -2282,7 +2282,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Demon Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesUnstoppable Zealot.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Unstoppable Zealot.png"
 	        }
 	    },
 	    {
@@ -2291,7 +2291,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesShow of Unwavering Honor.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Show of Unwavering Honor.png"
 	        }
 	    },
 	    {
@@ -2300,7 +2300,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAcquiesce Position.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Acquiesce Position.png"
 	        }
 	    },
 	    {
@@ -2309,7 +2309,7 @@
 	        "mana_cost": "{2}{B}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesFatal Strike.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Fatal Strike.png"
 	        }
 	    },
 	    {
@@ -2318,7 +2318,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesIgnite the Inner Flame.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Ignite the Inner Flame.png"
 	        }
 	    },
 	    {
@@ -2327,7 +2327,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Azra Knight Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesKahroba Patrol.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Kahroba Patrol.png"
 	        }
 	    },
 	    {
@@ -2336,7 +2336,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesIn Defense of Soli.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/In Defense of Soli.png"
 	        }
 	    },
 	    {
@@ -2345,7 +2345,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Creature — Merfolk Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesManeli Ambassador.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Maneli Ambassador.png"
 	        }
 	    },
 	    {
@@ -2354,7 +2354,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesManipulations of the Div.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Manipulations of the Div.png"
 	        }
 	    },
 	    {
@@ -2363,7 +2363,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Wizard Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesTomb-Raider Duo.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Tomb-Raider Duo.png"
 	        }
 	    },
 	    {
@@ -2372,7 +2372,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Creature — Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesDiv of Lethargic Ideals.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Div of Lethargic Ideals.png"
 	        }
 	    },
 	    {
@@ -2381,7 +2381,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Human Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesKaneh Scribe.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Kaneh Scribe.png"
 	        }
 	    },
 	    {
@@ -2390,7 +2390,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Angel Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesDewdrop Ordainer.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Dewdrop Ordainer.png"
 	        }
 	    },
 	    {
@@ -2399,7 +2399,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesDrag Through the Alley.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Drag Through the Alley.png"
 	        }
 	    },
 	    {
@@ -2408,7 +2408,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesPiercing Arrow.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Piercing Arrow.png"
 	        }
 	    },
 	    {
@@ -2417,7 +2417,7 @@
 	        "mana_cost": "{6}{G}",
 	        "type": "Creature — Demon Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesIronclad Sentry.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Ironclad Sentry.png"
 	        }
 	    },
 	    {
@@ -2426,7 +2426,7 @@
 	        "mana_cost": "{4}{W}",
 	        "type": "Creature — Demon Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesBloodline Zealot.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Bloodline Zealot.png"
 	        }
 	    },
 	    {
@@ -2435,7 +2435,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Angel Sphinx ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesBrightwing Sphinx.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Brightwing Sphinx.png"
 	        }
 	    },
 	    {
@@ -2444,7 +2444,7 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAndazirs Pact.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Andazirs Pact.png"
 	        }
 	    },
 	    {
@@ -2453,7 +2453,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesConjure Quicksand.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Conjure Quicksand.png"
 	        }
 	    },
 	    {
@@ -2462,7 +2462,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesCherish the Past.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Cherish the Past.png"
 	        }
 	    },
 	    {
@@ -2471,7 +2471,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Knight Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesUnyielding Aswaran.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Unyielding Aswaran.png"
 	        }
 	    },
 	    {
@@ -2480,7 +2480,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Nephilim Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesBenevolent Host.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Benevolent Host.png"
 	        }
 	    },
 	    {
@@ -2489,7 +2489,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Human Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesPoison-Sky Acolyte.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Poison-Sky Acolyte.png"
 	        }
 	    },
 	    {
@@ -2498,7 +2498,7 @@
 	        "mana_cost": "{5}{R}",
 	        "type": "Creature — Demon Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesBloodcloaked Wrecker.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Bloodcloaked Wrecker.png"
 	        }
 	    },
 	    {
@@ -2507,7 +2507,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesCrush Opposition.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Crush Opposition.png"
 	        }
 	    },
 	    {
@@ -2516,7 +2516,7 @@
 	        "mana_cost": "{W/U}",
 	        "type": "Creature — Angel Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAugur of Pathways.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Augur of Pathways.png"
 	        }
 	    },
 	    {
@@ -2525,7 +2525,7 @@
 	        "mana_cost": "{U/B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesCunning Plan.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Cunning Plan.png"
 	        }
 	    },
 	    {
@@ -2534,7 +2534,7 @@
 	        "mana_cost": "{1}{B/R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesOffering to the Div.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Offering to the Div.png"
 	        }
 	    },
 	    {
@@ -2543,7 +2543,7 @@
 	        "mana_cost": "{1}{R/G}",
 	        "type": "Creature — Human Merchant ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesBazaar Braggart.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Bazaar Braggart.png"
 	        }
 	    },
 	    {
@@ -2552,7 +2552,7 @@
 	        "mana_cost": "{1}{G/W}",
 	        "type": "Creature — Azra Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesErzdew Captain.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Erzdew Captain.png"
 	        }
 	    },
 	    {
@@ -2561,7 +2561,7 @@
 	        "mana_cost": "{2}{W/B}{W/B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesToil Beyond Death.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Toil Beyond Death.png"
 	        }
 	    },
 	    {
@@ -2570,7 +2570,7 @@
 	        "mana_cost": "{3}{U/R}{U/R}",
 	        "type": "Creature — Human Cleric Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesRahstadhe Pledge.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Rahstadhe Pledge.png"
 	        }
 	    },
 	    {
@@ -2579,7 +2579,7 @@
 	        "mana_cost": "{3}{B/G}{B/G}",
 	        "type": "Creature — Demon Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesOpenmaw Demon.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Openmaw Demon.png"
 	        }
 	    },
 	    {
@@ -2588,7 +2588,7 @@
 	        "mana_cost": "{1}{R/W}{R/W}",
 	        "type": "Creature — Cat ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesBattlefield Tiger.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Battlefield Tiger.png"
 	        }
 	    },
 	    {
@@ -2597,7 +2597,7 @@
 	        "mana_cost": "{3}{G/U}",
 	        "type": "Creature — Angel Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesVenerable Skyblade.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Venerable Skyblade.png"
 	        }
 	    },
 	    {
@@ -2606,7 +2606,7 @@
 	        "mana_cost": "{6}",
 	        "type": "Artifact Creature — Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAttendant of Graves.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Attendant of Graves.png"
 	        }
 	    },
 	    {
@@ -2615,7 +2615,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesWayfinder's Bauble.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Wayfinder's Bauble.png"
 	        }
 	    },
 	    {
@@ -2624,7 +2624,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesBanner of Warfare.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Banner of Warfare.png"
 	        }
 	    },
 	    {
@@ -2633,7 +2633,7 @@
 	        "mana_cost": "{2}{R}{W}",
 	        "type": "Creature — Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesZagos Abomination.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Zagos Abomination.png"
 	        }
 	    },
 	    {
@@ -2642,7 +2642,7 @@
 	        "mana_cost": "{1}{R}{G}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesGuardians of Kallians Tomb.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Guardians of Kallians Tomb.png"
 	        }
 	    },
 	    {
@@ -2651,7 +2651,7 @@
 	        "mana_cost": "{2}{W}{U}{B}{R}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesCosmic Banishment.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Cosmic Banishment.png"
 	        }
 	    },
 	    {
@@ -2660,7 +2660,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Nephilim Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesHooded Mystic.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Hooded Mystic.png"
 	        }
 	    },
 	    {
@@ -2668,7 +2668,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesPetty Thief.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Petty Thief.png"
 	        },
 	        "printed names": {
 	            "en": "Petty Thief"
@@ -2679,7 +2679,7 @@
 	                "en": "Master Assassin"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesMaster Assassin.png"
+	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Master Assassin.png"
 	            },
 	            "type": "Creature — Azra Assassin "
 	        }
@@ -2689,7 +2689,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Nephilim Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesBlackfeather Cleric.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Blackfeather Cleric.png"
 	        },
 	        "printed names": {
 	            "en": "Blackfeather Cleric"
@@ -2700,7 +2700,7 @@
 	                "en": "Elite of Mahara"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesElite of Mahara.png"
+	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Elite of Mahara.png"
 	            },
 	            "type": "Creature — Angel Cleric "
 	        }
@@ -2711,7 +2711,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Azra Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesErzdew Enforcer.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Erzdew Enforcer.png"
 	        }
 	    },
 	    {
@@ -2720,7 +2720,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesTrial of Strength.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Trial of Strength.png"
 	        }
 	    },
 	    {
@@ -2729,7 +2729,7 @@
 	        "mana_cost": "{4}{B}{R}",
 	        "type": "Legendary Creature — Mutant Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAndazir, First to Aspire.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Andazir, First to Aspire.png"
 	        }
 	    },
 	    {
@@ -2738,7 +2738,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Legendary Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesFeather of the Simurgh.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Feather of the Simurgh.png"
 	        }
 	    },
 	    {
@@ -2747,7 +2747,7 @@
 	        "mana_cost": "{W}{U}{B}{R}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesPariahs Bargain.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Pariahs Bargain.png"
 	        }
 	    },
 	    {
@@ -2756,7 +2756,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Angel Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesDanaj Sightseer.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Danaj Sightseer.png"
 	        }
 	    },
 	    {
@@ -2765,7 +2765,7 @@
 	        "mana_cost": "{W}{U}{B}{R}",
 	        "type": "Creature — Djinn Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesObstinate Wishgranter.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Obstinate Wishgranter.png"
 	        }
 	    },
 	    {
@@ -2774,7 +2774,7 @@
 	        "mana_cost": "{4}{U}{B}{R}{G}",
 	        "type": "Creature — Demon Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesSahras Harbinger.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Sahras Harbinger.png"
 	        }
 	    },
 	    {
@@ -2783,7 +2783,7 @@
 	        "mana_cost": "{B}{R}{G}{W}",
 	        "type": "Creature — Manticore ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesSwooping Manticore.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Swooping Manticore.png"
 	        }
 	    },
 	    {
@@ -2792,7 +2792,7 @@
 	        "mana_cost": "{1}{R}{G}{W}{U}",
 	        "type": "Creature — Angel Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesIridescent Savior.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Iridescent Savior.png"
 	        }
 	    },
 	    {
@@ -2801,7 +2801,7 @@
 	        "mana_cost": "{W}{U}{B}",
 	        "type": "Creature — Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesDiv of Unsettling Secrets.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Div of Unsettling Secrets.png"
 	        }
 	    },
 	    {
@@ -2810,7 +2810,7 @@
 	        "mana_cost": "{1}{G}{W}{U}{B}",
 	        "type": "Legendary Creature — Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesDisappointment.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Disappointment.png"
 	        }
 	    },
 	    {
@@ -2818,7 +2818,7 @@
 	        "mana_cost": "{R/W}",
 	        "type": "Legendary Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesThe Lost and Seeking.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/The Lost and Seeking.png"
 	        },
 	        "printed names": {
 	            "en": "The Lost and Seeking"
@@ -2829,7 +2829,7 @@
 	                "en": "Ameret, Shining and Proud"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesAmeret, Shining and Proud.png"
+	                "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Ameret, Shining and Proud.png"
 	            },
 	            "type": "Legendary Planeswalker — Ameret "
 	        }
@@ -2840,7 +2840,7 @@
 	        "mana_cost": "{5}{R}{R}",
 	        "type": "Creature — Angel Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesCyrukans Elite.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Cyrukans Elite.png"
 	        }
 	    },
 	    {
@@ -2849,7 +2849,7 @@
 	        "mana_cost": "{W}{U}{B}{R}{G}",
 	        "type": "Legendary Creature — Human Noble ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-filesZareen Kahroba, Shah.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Rise-of-Soli/main/ROS-files/Zareen Kahroba, Shah.png"
 	        }
 	    }
 	]
